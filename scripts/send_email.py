@@ -1,13 +1,5 @@
 """
 Envia reports/latest.md por e-mail via SMTP.
-So roda se todas as variaveis de ambiente necessarias estiverem definidas -
-caso contrario, e pulado silenciosamente (o commit do relatorio no repo
-ja funciona como entrega, mesmo sem e-mail configurado).
-
-Variaveis de ambiente esperadas:
-  SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS, EMAIL_TO
-Para Gmail: SMTP_HOST=smtp.gmail.com, SMTP_PORT=587, SMTP_USER=seu@gmail.com,
-SMTP_PASS = uma "App Password" (nao a senha normal da conta).
 """
 
 import os

@@ -17,7 +17,7 @@ GEMINI_URL = (
 INPUT_PATH = "collected.json"
 OUTPUT_PATH = "summarized.json"
 MIN_RELEVANCE = 4
-BATCH_SIZE = 12  # itens por chamada, para nao estourar tokens/RPM do free tier
+BATCH_SIZE = 12 
 
 PROMPT_TEMPLATE = """Voce e um analista de tecnologia especializado em IA.
 Para cada item da lista abaixo (titulo, fonte e resumo original em ingles ou
@@ -29,7 +29,7 @@ outro idioma), gere um objeto JSON com:
   "Negocios/Investimento", "Politica/Regulacao", "Outro"]
 - "relevance": nota de 1 a 5 sobre o quanto isso importa para quem acompanha
   o mercado de IA profissionalmente (5 = muito relevante, 1 = irrelevante/ruido)
-- "summary_pt": resumo em portugues, 1 a 2 frases, direto ao ponto
+- "summary_pt": resumo em portugues, 2 a 4 frases, direto ao ponto
 
 Responda APENAS com um array JSON valido, sem markdown, sem texto antes ou
 depois, sem crases.
