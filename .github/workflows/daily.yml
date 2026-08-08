@@ -1,0 +1,54 @@
+name: Radar diario de IA
+
+on:
+  schedule:
+    # 10:00 UTC = 07:00 no horario de Brasilia (UTC-3)
+    - cron: "0 10 * * *"
+  workflow_dispatch: {}  # permite rodar manualmente pelo botao "Run workflow"
+
+permissions:
+  contents: write  # necessario para o commit do relatorio
+
+jobs:
+  gerar-relatorio:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Coletar noticias (RSS)
+        run: python scripts/collect_news.py
+
+      - name: Resumir e classificar com IA
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/summarize.py
+
+      - name: Montar relatorio
+        run: python scripts/build_report.py
+
+      - name: Enviar por e-mail (opcional)
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python send_email.py
+
+      - name: Commitar relatorio no repositorio
+        run: |
+          git config user.name "radar-ia-bot"
+          git config user.email "actions@github.com"
+          git add reports/
+          git diff --staged --quiet || git commit -m "Relatorio diario $(date -u +%Y-%m-%d)"
+          git push
