@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Radar de IA — sinal do dia</title>
+<meta name="description" content="Varredura diária automática do mercado de IA, resumida por um agente que roda sozinho todo dia de manhã." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0f1c;
+    --panel: #121a2b;
+    --panel-border: #1f2b45;
+    --text: #e7ebf5;
+    --muted: #8a93ac;
+    --accent: #ffb454;
+    --accent-dim: #7a5b2c;
+    --signal: #5eead4;
+    --radius: 14px;
+  }
+
+  * { box-sizing: border-box; }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { animation-duration: 0.001ms !important; animation-iteration-count: 1 !important; }
+  }
+
+  html, body {
+    margin: 0;
+    background: var(--bg);
+    background-image:
+      radial-gradient(ellipse 900px 500px at 50% -10%, rgba(255,180,84,0.08), transparent 60%),
+      radial-gradient(ellipse 700px 400px at 90% 10%, rgba(94,234,212,0.05), transparent 60%);
+    color: var(--text);
+    font-family: 'Inter', system-ui, sans-serif;
+    line-height: 1.5;
+  }
+
+  a { color: var(--signal); }
+
+  .wrap {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 56px 20px 80px;
+  }
+
+  /* ---------- Header / radar sweep signature ---------- */
+
+  header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 48px;
+  }
+
+  .radar {
+    position: relative;
+    width: 128px;
+    height: 128px;
+    margin-bottom: 22px;
+  }
+
+  .radar-ring {
+    position: absolute;
+    inset: 0;
+    border-radius: 50%;
+    border: 1px solid var(--panel-border);
+  }
+  .radar-ring.r2 { inset: 20px; }
+  .radar-ring.r3 { inset: 40px; }
+  .radar-ring.r4 { inset: 60px; border-color: var(--accent-dim); }
+
+  .radar-sweep {
+    position: absolute;
+    inset: 0;
+    border-radius: 50%;
+    background: conic-gradient(from 0deg, rgba(255,180,84,0.55), transparent 32%);
+    animation: spin 4s linear infinite;
+    mask-image: radial-gradient(circle, black 60%, transparent 100%);
+  }
+
+  @keyframes spin {
+    to { transform: rotate(360deg); }
+  }
+
+  .radar-dot {
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 8px 2px rgba(255,180,84,0.7);
+    top: 30%;
+    left: 66%;
+    animation: blip 4s ease-in-out infinite;
+  }
+  @keyframes blip {
+    0%, 100% { opacity: 0.15; }
+    50% { opacity: 1; }
+  }
+
+  h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    margin: 0 0 6px;
+  }
+
+  .eyebrow {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 10px;
+  }
+
+  .subtitle {
+    color: var(--muted);
+    font-size: 14.5px;
+    max-width: 440px;
+  }
+
+  .subtitle strong { color: var(--text); font-weight: 600; }
+
+  /* ---------- Content ---------- */
+
+  .category {
+    margin-bottom: 34px;
+  }
+
+  .category-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 14px;
+  }
+
+  .category-label::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--panel-border);
+  }
+
+  .item {
+    background: var(--panel);
+    border: 1px solid var(--panel-border);
+    border-radius: var(--radius);
+    padding: 16px 18px;
+    margin-bottom: 10px;
+  }
+
+  .item-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+    margin-bottom: 6px;
+  }
+
+  .item-title {
+    font-weight: 600;
+    font-size: 15.5px;
+    text-decoration: none;
+    color: var(--text);
+  }
+  .item-title:hover { color: var(--accent); }
+
+  .signal-bars {
+    display: flex;
+    gap: 3px;
+    flex-shrink: 0;
+    padding-top: 3px;
+  }
+  .signal-bars i {
+    display: block;
+    width: 4px;
+    height: 10px;
+    border-radius: 1px;
+    background: var(--panel-border);
+  }
+  .signal-bars i.on { background: var(--signal); }
+
+  .item-meta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--muted);
+    margin-bottom: 8px;
+  }
+
+  .item-summary {
+    font-size: 14px;
+    color: #c3cadd;
+    margin: 0;
+  }
+
+  /* ---------- States ---------- */
+
+  .state {
+    text-align: center;
+    color: var(--muted);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    padding: 60px 0;
+  }
+
+  footer {
+    margin-top: 56px;
+    padding-top: 20px;
+    border-top: 1px solid var(--panel-border);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11.5px;
+    color: var(--muted);
+    text-align: center;
+  }
+  footer a { color: var(--muted); text-decoration: underline; }
+  footer a:hover { color: var(--signal); }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="radar" aria-hidden="true">
+        <div class="radar-ring"></div>
+        <div class="radar-ring r2"></div>
+        <div class="radar-ring r3"></div>
+        <div class="radar-ring r4"></div>
+        <div class="radar-sweep"></div>
+        <div class="radar-dot"></div>
+      </div>
+      <div class="eyebrow">Varredura automática</div>
+      <h1>Radar de IA</h1>
+      <p class="subtitle" id="subtitle">Carregando o sinal de hoje…</p>
+    </header>
+
+    <main id="content">
+      <div class="state">sintonizando…</div>
+    </main>
+
+    <footer>
+      Gerado sozinho, todo dia de manhã, por um agente em
+      <a href="https://github.com/Saullo-Programador/Agente_Noticias_IA" target="_blank" rel="noopener">GitHub Actions</a>.
+      Só mostra a varredura do dia atual.
+    </footer>
+  </div>
+
+<script>
+  const CATEGORY_ORDER = [
+    "Lancamento de modelo",
+    "Pesquisa",
+    "Produto/Ferramenta",
+    "Negocios/Investimento",
+    "Politica/Regulacao",
+    "Outro",
+  ];
+
+  function fmtDate(iso) {
+    const d = new Date(iso + "T00:00:00");
+    return d.toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' });
+  }
+
+  function bars(relevance) {
+    let html = '<div class="signal-bars" aria-hidden="true">';
+    for (let i = 1; i <= 5; i++) {
+      html += `<i class="${i <= relevance ? 'on' : ''}"></i>`;
+    }
+    return html + '</div>';
+  }
+
+  function render(data) {
+    const subtitle = document.getElementById('subtitle');
+    const content = document.getElementById('content');
+    const items = data.items || [];
+
+    subtitle.innerHTML = items.length
+      ? `<strong>${items.length}</strong> sinais relevantes captados em ${fmtDate(data.date)}`
+      : `Nenhum sinal relevante em ${fmtDate(data.date)}`;
+
+    if (!items.length) {
+      content.innerHTML = '<div class="state">silêncio no radar hoje — nada acima do limiar de relevância.</div>';
+      return;
+    }
+
+    const byCategory = {};
+    for (const item of items) {
+      const cat = item.category || "Outro";
+      (byCategory[cat] = byCategory[cat] || []).push(item);
+    }
+
+    let html = "";
+    for (const cat of CATEGORY_ORDER) {
+      const entries = byCategory[cat];
+      if (!entries || !entries.length) continue;
+      html += `<section class="category"><div class="category-label">${cat}</div>`;
+      for (const it of entries) {
+        html += `
+          <article class="item">
+            <div class="item-top">
+              <a class="item-title" href="${it.link}" target="_blank" rel="noopener">${it.title}</a>
+              ${bars(it.relevance || 0)}
+            </div>
+            <div class="item-meta">${it.source}</div>
+            <p class="item-summary">${it.summary_pt}</p>
+          </article>`;
+      }
+      html += `</section>`;
+    }
+    content.innerHTML = html;
+  }
+
+  fetch('reports/latest.json', { cache: 'no-store' })
+    .then(r => {
+      if (!r.ok) throw new Error('sem relatorio ainda');
+      return r.json();
+    })
+    .then(render)
+    .catch(() => {
+      document.getElementById('subtitle').textContent = 'Ainda sem varredura publicada.';
+      document.getElementById('content').innerHTML =
+        '<div class="state">o primeiro relatório aparece aqui assim que o agente rodar pela primeira vez.</div>';
+    });
+</script>
+</body>
+</html>

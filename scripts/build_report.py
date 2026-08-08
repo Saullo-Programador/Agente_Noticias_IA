@@ -57,6 +57,10 @@ def build():
     with open("reports/latest.md", "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
 
+    # versao JSON do dia, consumida pela pagina (index.html / GitHub Pages)
+    with open(f"reports/{today}.json", "w", encoding="utf-8") as f:
+        json.dump({"date": today, "items": items}, f, ensure_ascii=False, indent=2)
+
     print(f"Relatorio gerado em {report_path}")
 
 
