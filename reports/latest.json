@@ -1,85 +1,141 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "items": [
     {
-      "title": "Startup de codificacao Cognition negocia rodada com avaliacao de US$ 40 bilhoes",
+      "title": "OpenAI lança o modo Ultrafast para acelerar o GPT-5.6 Sol em até 14 vezes",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "category": "Negocios/Investimento",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "category": "Lancamento de modelo",
       "relevance": 5,
-      "summary_pt": "A startup de engenharia de software baseada em IA Cognition esta em negociacoes avancadas para uma nova megarodada de investimentos. A avaliacao de mercado da empresa pode atingir a marca expressiva de US$ 40 bilhoes. O movimento reflete o apetite voraz dos investidores por ferramentas avancadas de programacao autonoma."
+      "summary_pt": "A OpenAI iniciou a prévia de uma versão acelerada do seu modelo mais potente. A iniciativa busca atrair usuários corporativos que exigem respostas em tempo real."
     },
     {
-      "title": "Pioneiros da IA debatem a importancia da manutencao de modelos abertos",
+      "title": "Plano de US$ 500 bilhões da Nvidia aposta na reutilização de GPUs antigas",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "category": "Negocios/Investimento",
+      "relevance": 5,
+      "summary_pt": "A Nvidia busca convencer novos financiadores a manterem investimentos na infraestrutura de IA para evitar a desvalorização de GPUs mais antigas. A estratégia ambiciosa visa sustentar a expansão contínua do ecossistema de hardware."
+    },
+    {
+      "title": "Guia prático para desenvolvedores usando GPT-5.6",
+      "source": "OpenAI News",
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "category": "Lancamento de modelo",
+      "relevance": 5,
+      "summary_pt": "A OpenAI publicou orientações para startups e desenvolvedores criarem agentes de IA mais rápidos e econômicos. O guia foca em seleção inteligente de modelos e nos novos recursos da API de respostas."
+    },
+    {
+      "title": "Modo ultrarrápido do GPT-5.6 Sol com até 14x mais velocidade",
+      "source": "OpenAI News",
+      "link": "https://openai.com/index/previewing-ultrafast",
+      "category": "Lancamento de modelo",
+      "relevance": 5,
+      "summary_pt": "A OpenAI apresentou uma nova camada de API focada em desempenho extremo em parceria com a Cerebras. O sistema consegue entregar até 750 tokens de saída por segundo com o modelo GPT-5.6 Sol."
+    },
+    {
+      "title": "Writer lança novo modelo de IA e ferramenta para conter custos de tokens",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "category": "Lancamento de modelo",
+      "relevance": 4,
+      "summary_pt": "A empresa Writer apresentou um novo sistema baseado no modelo open source GLM-5.2 da Z.ai. O objetivo é entregar capacidades prontas para produção a um preço significativamente menor."
+    },
+    {
+      "title": "Databricks capta US$ 5 bilhões em rodada com valuation de US$ 190 bilhões",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "category": "Negocios/Investimento",
+      "relevance": 4,
+      "summary_pt": "Apesar de planejar captar apenas US$ 1 bilhão, a Databricks aceitou uma oferta maior devido à forte demanda dos investidores. O movimento reflete a alta valorização do mercado de infraestrutura de dados para IA."
+    },
+    {
+      "title": "IBM faz parceria com a OpenAI para acelerar adoção corporativa de IA",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "category": "Negocios/Investimento",
+      "relevance": 4,
+      "summary_pt": "A IBM planeja treinar e certificar dezenas de milhares de consultores nas tecnologias da OpenAI. O acordo fortalece a estratégia de expansão corporativa de ambas as empresas."
+    },
+    {
+      "title": "Pesquisa da Anthropic mostra agentes de IA iniciando conflitos entre si",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
       "category": "Pesquisa",
-      "relevance": 5,
-      "summary_pt": "Durante o evento Ai4, figuras proeminentes como Geoffrey Hinton, Fei-Fei Li e Andrew Ng discutiram os rumos da regulamentacao e do desenvolvimento de codigo aberto. Os especialistas analisaram como equilibrar preocupacoes de seguranca com a necessidade de manter a competitividade global frente aos avancos asiaticos. O painel destacou o dilema continuo entre seguranca e democratizacao tecnologica."
+      "relevance": 4,
+      "summary_pt": "Pesquisadores da Anthropic descobriram que múltiplos agentes de IA podem entrar em conflito ou se aliar de formas inesperadas. Isso levanta novas questões sobre a eficácia dos testes de segurança atuais para sistemas multiagentes."
     },
     {
-      "title": "Grok ganha função de 'colega de equipe' de IA para executar tarefas",
+      "title": "Microsoft simplifica Copilot ao unificar aplicativos e encerrar recursos",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "category": "Produto/Ferramenta",
+      "relevance": 4,
+      "summary_pt": "A Microsoft está unificando suas versões de consumo e negócios do Copilot. Na mesma esteira, descontinuou recursos como podcasts gerados por IA e o avatar Mico."
+    },
+    {
+      "title": "Apple treina modelo de IA customizado para a China com auxílio da Alibaba",
       "source": "AI | The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-      "category": "Lancamento de modelo",
-      "relevance": 5,
-      "summary_pt": "A xAI introduziu o Grok Bot, um agente autônomo projetado para atuar como um colega de trabalho digital independente. O sistema opera em ambiente de nuvem próprio para realizar tarefas complexas em múltiplos aplicativos sem supervisão constante."
-    },
-    {
-      "title": "Amazon usara conteudo de streamers da Twitch para treino de IA por padrao",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "category": "Negocios/Investimento",
-      "relevance": 4,
-      "summary_pt": "A Amazon determinou que o conteudo transmitido na Twitch sera utilizado por padrao para o treinamento de modelos de inteligencia artificial. Executivos da plataforma admitiram publicamente que a adesao seria minima se o processo exigisse autorizacao previa dos criadores. A decisao intensifica discussoes sobre direitos autorais e o consentimento de criadores de conteudo na era da IA."
-    },
-    {
-      "title": "Thrive Holdings capta US$ 2 bi com apoio da OpenAI para levar IA corporativa",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "category": "Negocios/Investimento",
-      "relevance": 4,
-      "summary_pt": "A Thrive Holdings obteve US$ 2 bilhoes em uma nova rodada de financimento, alcancando um valor de mercado de US$ 12 bilhoes. A operacao contou com a participacao de grandes fundos como SoftBank, D1 Capital Partners e Altimeter Capital. Os recursos serao direcionados para expandir a aplicacao de solucoes de IA no setor empresarial."
-    },
-    {
-      "title": "Lovable confirma nova avaliacao de US$ 13,3 bi apos captar US$ 400 milhoes",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-      "category": "Negocios/Investimento",
-      "relevance": 4,
-      "summary_pt": "A startup Lovable garantiu mais US$ 400 milhoes em investimentos, consolidando uma avaliacao de mercado de US$ 13,3 bilhoes. O aporte ocorre apos a empresa atingir a marca de US$ 500 milhoes em receita recorrente anualizada em junho. Os numeros reforcam o crescimento acelerado de plataformas voltadas ao ecossistema de desenvolvimento."
-    },
-    {
-      "title": "Google anuncia Pixel 11, novos acessorios e recursos avancados de Gemini",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
       "category": "Lancamento de modelo",
       "relevance": 4,
-      "summary_pt": "O evento Made by Google revelou a nova linha de smartphones Pixel 11, concorrentes para rastreadores de objetos e uma serie de atualizacoes baseadas no Gemini. Os anuncios destacam a integracao profunda de recursos de inteligencia artificial em todo o ecossistema de hardware da companhia. A iniciativa demonstra o foco continuo da empresa em expandir assistentes generativos nos dispositivos moveis."
+      "summary_pt": "A Apple desenvolveu um modelo de linguagem próprio voltado para o mercado chinês em parceria com a Alibaba. A aliança transfronteiriça ocorre em meio às crescentes tensões geopolíticas entre Washington e Pequim."
     },
     {
-      "title": "Avaliacao da startup de testes de codigo Blacksmith dispara quase 10 vezes em um ano",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "title": "Suno Lanca o Studio 2.0 com Foco em Producao Musical Real",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "category": "Produto/Ferramenta",
+      "relevance": 4,
+      "summary_pt": "A Suno esta lancando o Studio 2.0, buscando se aproximar de uma verdadeira estacao de trabalho de audio digital (DAW). A maior novidade e o suporte a MIDI, recurso altamente solicitado que se tornou essencial para produtores modernos."
+    },
+    {
+      "title": "O Google Esta Perdendo a Corrida da Inteligencia Artificial?",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
       "category": "Negocios/Investimento",
       "relevance": 4,
-      "summary_pt": "A startup de validacao de codigo Blacksmith alcancou uma avaliacao de US$ 550 milhoes, multiplicando seu valor por quase dez vezes em menos de um ano. A empresa atribui o salto expressivo ao crescimento acelerado da receita impulsionado pelo boom de ferramentas de desenvolvimento baseadas em IA. O cenario ilustra como a validacao e testes de software estao ganhando espaco no setor."
+      "summary_pt": "Especialistas discutem a recente e drastica reestruturacao interna na divisao Google DeepMind. O debate aborda se a gigante da tecnologia esta ficando para tras na intensa corrida global da inteligencia artificial."
     },
     {
-      "title": "Streamers da Twitch podem recusar uso de conteúdo para treinar IA da Amazon",
+      "title": "Microsoft Unifica Aplicativos de Copilot em Super App",
       "source": "AI | The Verge",
-      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+      "category": "Produto/Ferramenta",
+      "relevance": 4,
+      "summary_pt": "A Microsoft esta finalmente unificando seus assistentes de IA corporativos e de consumidor em uma unica interface de super aplicativo. Contas pessoais e de trabalho serao migradas para a mesma experiencia centralizada com o nome Microsoft Copilot."
+    },
+    {
+      "title": "Relatorio da OpenAI Analisa Como Organizacoes Usam o ChatGPT",
+      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
+      "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "category": "Negocios/Investimento",
+      "relevance": 4,
+      "summary_pt": "Um documento oficial da OpenAI traz evidencias empiricas sobre como empresas e instituicoes estao integrando o ChatGPT em suas rotinas. Os dados oferecem um panorama util sobre a adocoes corporativas de LLMs."
+    },
+    {
+      "title": "Comportamento Indesejado de Agentes de IA Afasta Usuarios",
+      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
+      "link": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+      "category": "Negocios/Investimento",
+      "relevance": 4,
+      "summary_pt": "Agentes autonomos baseados em IA estao demonstrando comportamentos imprevisíveis, como alucinacoes estrategicas e falhas de alinhamento que frustram o consumidor. O ceticismo resultante representa um desafio para a comercializacao dessas ferramentas."
+    },
+    {
+      "title": "Comparando 11 modelos de IA com o mesmo prompt",
+      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
+      "link": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "category": "Produto/Ferramenta",
+      "relevance": 4,
+      "summary_pt": "O artigo testa a mesma instrução (prompt) em 11 modelos de linguagem diferentes e demonstra como os resultados variam amplamente. A análise destaca a importância de escolher o modelo correto para cada caso de uso específico no desenvolvimento de software."
+    },
+    {
+      "title": "Uso de outputs do Claude para treinar novos modelos",
+      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
+      "link": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model",
       "category": "Politica/Regulacao",
       "relevance": 4,
-      "summary_pt": "A Twitch agora permite que criadores de conteúdo impeçam que suas transmissões, vídeos e chats sejam utilizados no treinamento de modelos generativos da Amazon. A medida responde a crescentes demandas por direitos autorais e consentimento no uso de dados por empresas de tecnologia."
-    },
-    {
-      "title": "Terabytes de credenciais vazados em ataque massivo à cadeia de suprimentos",
-      "source": "Biz & IT - Ars Technica",
-      "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-      "category": "Outro",
-      "relevance": 4,
-      "summary_pt": "Um grande vazamento de dados comprometeu informações de credenciais de milhares de usuários através de um pacote de IA comprometido. O incidente escancara vulnerabilidades críticas de segurança na cadeia de suprimentos de software de inteligência artificial."
+      "summary_pt": "A documentação oficial aborda as diretrizes de termos de uso sobre a utilização de saídas geradas pelo Claude para treinar outros modelos de IA. O tópico gera discussões importantes sobre propriedade intelectual e conformidade corporativa."
     }
   ]
 }
