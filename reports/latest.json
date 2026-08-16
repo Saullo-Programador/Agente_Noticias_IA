@@ -1,61 +1,29 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "items": [
     {
-      "title": "OpenAI e Anthropic entram em guerra de preços impulsionadas por rivais chineses",
-      "source": "Biz & IT - Ars Technica",
-      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "title": "SpaceX conclui oficialmente a aquisição da startup Cursor",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
       "category": "Negocios/Investimento",
       "relevance": 5,
-      "summary_pt": "Empresas americanas de inteligência artificial estão lançando modelos mais baratos em resposta ao avanço de concorrentes da China. A movimentação acirra a competição e pressiona as ambições financeiras bilionárias do setor nos EUA."
+      "summary_pt": "A SpaceX finalizou a compra da Cursor, startup focada em programação assistida por inteligência artificial. A movimentação demonstra o apetite de empresas aeroespaciais por tecnologias avançadas de desenvolvimento de software."
     },
     {
-      "title": "Google viabiliza IA privada com criptografia homomórfica",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "category": "Produto/Ferramenta",
-      "relevance": 5,
-      "summary_pt": "O Google anunciou avanços na aplicação de criptografia homomórfica para tornar a inteligência artificial mais privada e segura. Essa tecnologia permite que modelos processem dados criptografados sem nunca revelá-los em formato legível. A inovação resolve um dos maiores gargalos de segurança e privacidade em serviços de nuvem baseados em IA."
-    },
-    {
-      "title": "Mark Zuckerberg defende IA aberta com o lançamento do Glimmer",
+      "title": "Uso indevido do Grok gera alerta sobre imagens explícitas",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "category": "Lancamento de modelo",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "category": "Politica/Regulacao",
       "relevance": 4,
-      "summary_pt": "A Meta lançou o Glimmer, um modelo de IA de pesos abertos que pode ser executado localmente. A iniciativa veio acompanhada de uma carta de Mark Zuckerberg argumentando que a tecnologia deve ser acessível a todos e não controlada apenas por poucos laboratórios."
+      "summary_pt": "Uma mulher relatou que seu padrasto utilizou a ferramenta Grok para transformar uma foto de infância em conteúdo explícito. O caso reacende discussões graves sobre os riscos e a falta de salvaguardas adequadas em geradores de imagem por inteligência artificial."
     },
     {
-      "title": "Previsão indica riscos financeiros para data centers de IA com uso de gás natural",
+      "title": "Anthropic detalha funcionamento de novas marcas d'água no Claude",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "category": "Negocios/Investimento",
-      "relevance": 4,
-      "summary_pt": "Novas previsões apontam que os preços do gás natural podem triplicar em algumas regiões dos Estados Unidos. Isso pode gerar custos exorbitantes para gigantes tecnológicos que apostaram nessa fonte para suprir a demanda energética de seus data centers."
-    },
-    {
-      "title": "Apple treina modelo de IA na China em parceria com a Alibaba",
-      "source": "AI | The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "category": "Negocios/Investimento",
-      "relevance": 4,
-      "summary_pt": "A Apple desenvolveu um modelo de linguagem personalizado para o mercado chinês com o suporte da gigante Alibaba. Essa parceria transfronteiriça incomum ocorre em meio às crescentes tensões tecnológicas entre Pequim e Washington."
-    },
-    {
-      "title": "Atlas de Modelos de IA: visualizando populações de ML em grafos 3D",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
-      "category": "Pesquisa",
-      "relevance": 4,
-      "summary_pt": "A ferramenta apresenta um mapa visual interativo em 3D que conecta diferentes modelos de aprendizado de máquina. A visualização ajuda pesquisadores e entusiastas a compreenderem melhor o ecossistema de modelos e suas relações. É um recurso interessante para navegar pelo vasto panorama atual de inteligência artificial."
-    },
-    {
-      "title": "HashAgent: Compartilhe agentes de IA via URL rodando localmente via WebGPU",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://hashagent.pages.dev/",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
       "category": "Produto/Ferramenta",
       "relevance": 4,
-      "summary_pt": "O HashAgent permite que desenvolvedores compartilhem agentes de inteligência artificial de forma simples através de um link URL. O processamento é executado diretamente no navegador do usuário utilizando WebGPU, dispensando servidores remotos pesados. A abordagem facilita testes rápidos e distribuições descentralizadas de agentes locais."
+      "summary_pt": "A Anthropic divulgou informações técnicas sobre como as novas marcas d'água do Claude serão implementadas. O anúncio aborda a resiliência das marcas contra edições e o impacto prático dessa tecnologia na geração de códigos."
     }
   ]
 }
