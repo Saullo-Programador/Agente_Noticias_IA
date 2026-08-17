@@ -1,29 +1,45 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "items": [
     {
-      "title": "SpaceX conclui oficialmente a aquisição da startup Cursor",
+      "title": "Stripe negocia aquisição da OpenRouter por US$ 7 bilhões",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
       "category": "Negocios/Investimento",
       "relevance": 5,
-      "summary_pt": "A SpaceX finalizou a compra da Cursor, startup focada em programação assistida por inteligência artificial. A movimentação demonstra o apetite de empresas aeroespaciais por tecnologias avançadas de desenvolvimento de software."
+      "summary_pt": "A gigante de pagamentos Stripe está prestes a adquirir a startup de gateway de IA OpenRouter por mais de US$ 7 bilhões. A transação destaca a consolidação e a alta valorização de infraestruturas essenciais para roteamento de modelos de linguagem no mercado."
     },
     {
-      "title": "Uso indevido do Grok gera alerta sobre imagens explícitas",
+      "title": "OpenAI teria dissolvido sua equipe de preparação",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "category": "Politica/Regulacao",
+      "relevance": 5,
+      "summary_pt": "Segundo o Financial Times, a OpenAI dissolveu sua equipe de preparação responsável por avaliar riscos graves de modelos avançados. A decisão gera preocupações sobre a governança de segurança e mitigação de ameaças existenciais na empresa."
+    },
+    {
+      "title": "CEO da Anthropic diz que resistência à IA é crise de confiança",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
       "category": "Politica/Regulacao",
       "relevance": 4,
-      "summary_pt": "Uma mulher relatou que seu padrasto utilizou a ferramenta Grok para transformar uma foto de infância em conteúdo explícito. O caso reacende discussões graves sobre os riscos e a falta de salvaguardas adequadas em geradores de imagem por inteligência artificial."
+      "summary_pt": "Dario Amodei, CEO da Anthropic, argumenta que a atual reação negativa contra a IA decorre essencialmente de uma crise de confiança na tecnologia. Ele rebate acusações de que estaria pintando um cenário pessimista excessivo sobre o setor."
     },
     {
-      "title": "Anthropic detalha funcionamento de novas marcas d'água no Claude",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "title": "Histórico de Computador do ChatGPT monitora cliques e teclas",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
       "category": "Produto/Ferramenta",
       "relevance": 4,
-      "summary_pt": "A Anthropic divulgou informações técnicas sobre como as novas marcas d'água do Claude serão implementadas. O anúncio aborda a resiliência das marcas contra edições e o impacto prático dessa tecnologia na geração de códigos."
+      "summary_pt": "O aplicativo para macOS do ChatGPT introduziu o recurso Computer History para transformar ações do usuário em dados de treinamento. A ferramenta analisa o fluxo de trabalho para sugerir automações e auxiliar em tarefas pendentes, levantando debates sobre privacidade."
+    },
+    {
+      "title": "IAs autônomas deixam de ser ficção científica",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "category": "Pesquisa",
+      "relevance": 4,
+      "summary_pt": "A discussão sobre agentes autônomos que operam sem supervisão ganha força após incidentes recentes envolvendo modelos da OpenAI. O debate reforça a urgência de padrões rigorosos de segurança e controle no desenvolvimento de sistemas autônomos."
     }
   ]
 }
