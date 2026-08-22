@@ -1,93 +1,29 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "items": [
     {
-      "title": "Startup de dados de IA Micro1 atinge US$ 500 milhões em receita",
+      "title": "Nvidia investe em desenvolvedora de data centers Cloverleaf",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
       "category": "Negocios/Investimento",
       "relevance": 4,
-      "summary_pt": "A crescente demanda por dados de treinamento em inteligência artificial tem impulsionado o crescimento acelerado da startup Micro1 e de seus concorrentes. Esse cenário reflete o boom contínuo de investimentos e infraestrutura voltados para o setor. A marca de US$ 500 milhões em receita bruta demonstra a alta valorização desse mercado."
+      "summary_pt": "A Nvidia continua injetando capital no desenvolvimento de infraestrutura para data centers. Esse movimento consolida o ciclo onde a expansao de centros de dados impulsados por IA retorna lucros expressivos para a fabricante de chips."
     },
     {
-      "title": "OpenAI avança sobre a Anthropic no mercado corporativo, apontam dados",
+      "title": "Pesquisa da Nvidia destaca importancia do ajuste fino em agentes de IA",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "category": "Negocios/Investimento",
-      "relevance": 4,
-      "summary_pt": "Novos dados indicam que a OpenAI está reconquistando espaço corporativo em cima da Anthropic. Empresas demonstram flexibilidade para alternar entre os laboratórios conforme novos modelos são lançados. Essa volatilidade levanta dúvidas sobre a fidelidade e a previsibilidade dos gastos corporativos em IA."
-    },
-    {
-      "title": "Google oferece nova ferramenta para editores combaterem perda de tráfego por IA",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "category": "Produto/Ferramenta",
-      "relevance": 4,
-      "summary_pt": "O Google introduziu um recurso que permite aos leitores marcarem sites de notícias como fontes preferenciais na Busca, Discover e Google News. A medida busca mitigar a queda de tráfego web causada pelas respostas diretas baseadas em inteligência artificial. É uma tentativa de equilibrar a experiência do usuário com a sustentabilidade dos veículos de imprensa."
-    },
-    {
-      "title": "Estudo aponta que um terço das páginas web recentes possuem marcas de IA",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/20/a-third-of-web-pages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
       "category": "Pesquisa",
       "relevance": 4,
-      "summary_pt": "Uma nova pesquisa revelou que cerca de um terço das páginas da web publicadas desde o lançamento do ChatGPT apresentam indícios de autoria ou edição por IA. O dado comprova a rápida transformação na forma como o conteúdo digital é gerado em massa. Isso levanta debates sobre a qualidade futura dos dados disponíveis na internet."
+      "summary_pt": "Novas pesquisas da Nvidia mostram que agentes de IA podem apresentar excelente desempenho atraves de ajustes finos estruturais. A descoberta sugere que a arquitetura ao redor do modelo pode ser mais determinante para o sucesso da tarefa do que a potencia do modelo base isolado."
     },
     {
-      "title": "Binance agora permite negociação por agentes de IA",
+      "title": "Investigacao do Departamento de Justica dos EUA sobre a a16z",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "category": "Produto/Ferramenta",
-      "relevance": 4,
-      "summary_pt": "A Binance introduziu o Agent OS, um sistema que permite que agentes de IA realizem operações de trading diretamente na plataforma. A ferramenta é compatível com assistentes populares como ChatGPT, Claude Code e Cursor, transferindo a responsabilidade de monitoramento para os usuários."
-    },
-    {
-      "title": "Greg Brockman assume nova liderança expandida na OpenAI",
-      "source": "AI | The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-role-expansion",
-      "category": "Negocios/Investimento",
-      "relevance": 4,
-      "summary_pt": "A OpenAI passa por mudanças internas significativas com a expansão do papel de Greg Brockman na liderança. A movimentação ocorre em um momento de intensas disputas judiciais, preparação para uma possível abertura de capital (IPO) e reestruturação executiva."
-    },
-    {
-      "title": "A crise existencial da matemática diante dos avanços da IA",
-      "source": "AI | The Verge",
-      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "category": "Pesquisa",
-      "relevance": 4,
-      "summary_pt": "A publicação recente de soluções para problemas matemáticos complexos pela OpenAI gerou debates intensos na comunidade acadêmica. O impacto da IA na pesquisa matemática levanta discussões profundas sobre o futuro da disciplina e o papel dos matemáticos humanos."
-    },
-    {
-      "title": "Slack lança canais colaborativos para programação com agentes de IA",
-      "source": "AI | The Verge",
-      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "category": "Produto/Ferramenta",
-      "relevance": 4,
-      "summary_pt": "O Slack introduziu o recurso Slack Code, criando canais dedicados onde equipes podem desenvolver software colaborativamente usando agentes de IA. A ferramenta integra abas de código, comparação de alterações e pré-visualização de HTML em um só lugar."
-    },
-    {
-      "title": "Falha de injeção de contexto criptográfico permite exfiltração de dados no Grok",
-      "source": "Biz & IT - Ars Technica",
-      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-      "category": "Pesquisa",
-      "relevance": 4,
-      "summary_pt": "Pesquisadores demonstraram que instruções maliciosas criptografadas conseguem burlar as barreiras de segurança de grandes modelos de linguagem, resultando no vazamento de dados de usuários no Grok. O caso destaca novas vulnerabilidades em salvaguardas de IA."
-    },
-    {
-      "title": "União Europeia determina que conteúdo gerado por IA não possui proteção de direitos autorais",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
       "category": "Politica/Regulacao",
       "relevance": 4,
-      "summary_pt": "Uma discussão jurídica na União Europeia reforçou o entendimento de que produções geradas exclusivamente por inteligência artificial não se qualificam para proteção de direitos autorais. A decisão impacta diretamente criadores e empresas que utilizam ferramentas generativas comercialmente."
-    },
-    {
-      "title": "IA não eliminou o valor do engenheiro júnior, aumentou",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-      "category": "Pesquisa",
-      "relevance": 4,
-      "summary_pt": "O artigo argumenta que a inteligência artificial não substituiu os profissionais em início de carreira, mas sim ampliou sua produtividade e importância. Com o suporte de ferramentas de IA, engenheiros juniores conseguem entregar mais valor e acelerar seu aprendizado. A discussão reflete sobre as mudanças reais no mercado de trabalho de tecnologia."
+      "summary_pt": "O Departamento de Justica dos Estados Unidos esta investigando a Andreessen Horowitz com base em uma lei antitruste centenaria. O foco sao conflitos decorrentes de socios da firma que ocupam conselhos de administracao de empresas concorrentes, o que pode impactar a atuacao do venture capital."
     }
   ]
 }
