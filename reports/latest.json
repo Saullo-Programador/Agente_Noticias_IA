@@ -1,29 +1,29 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "items": [
     {
-      "title": "Nvidia investe em desenvolvedora de data centers Cloverleaf",
+      "title": "Startup Inherent supera OpenAI e Anthropic em replicação de pesquisas",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "category": "Negocios/Investimento",
-      "relevance": 4,
-      "summary_pt": "A Nvidia continua injetando capital no desenvolvimento de infraestrutura para data centers. Esse movimento consolida o ciclo onde a expansao de centros de dados impulsados por IA retorna lucros expressivos para a fabricante de chips."
-    },
-    {
-      "title": "Pesquisa da Nvidia destaca importancia do ajuste fino em agentes de IA",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
       "category": "Pesquisa",
-      "relevance": 4,
-      "summary_pt": "Novas pesquisas da Nvidia mostram que agentes de IA podem apresentar excelente desempenho atraves de ajustes finos estruturais. A descoberta sugere que a arquitetura ao redor do modelo pode ser mais determinante para o sucesso da tarefa do que a potencia do modelo base isolado."
+      "relevance": 5,
+      "summary_pt": "Fundada por ex-alunos do DeepMind, a laboratório britânico Inherent lançou o Faraday, um agente de IA focado em replicar artigos científicos. A ferramenta superou concorrentes de peso e representa um avanço importante para acelerar a inovação baseada em literatura acadêmica."
     },
     {
-      "title": "Investigacao do Departamento de Justica dos EUA sobre a a16z",
+      "title": "OpenAI defende que Califórnia reforce projeto de lei de segurança de IA",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
       "category": "Politica/Regulacao",
       "relevance": 4,
-      "summary_pt": "O Departamento de Justica dos Estados Unidos esta investigando a Andreessen Horowitz com base em uma lei antitruste centenaria. O foco sao conflitos decorrentes de socios da firma que ocupam conselhos de administracao de empresas concorrentes, o que pode impactar a atuacao do venture capital."
+      "summary_pt": "Em uma mudança de postura em relação a legislações anteriores, a OpenAI agora pede que a Califórnia fortaleça o projeto de lei de segurança SB 53. A movimentação evidencia a crescente pressão regulatória e o posicionamento estratégico das grandes labs frente às leis estaduais."
+    },
+    {
+      "title": "Labs de IA ainda evitam detalhar planos de contenção para modelos rebeldes",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "category": "Politica/Regulacao",
+      "relevance": 4,
+      "summary_pt": "Um novo estudo revela que os principais laboratórios de IA possuem poucos planos públicos e documentados para conter modelos que apresentem comportamentos perigosos ou descontrolados. A falta de transparência levanta preocupações sérias sobre a preparação da indústria diante dos riscos existenciais e operacionais."
     }
   ]
 }
