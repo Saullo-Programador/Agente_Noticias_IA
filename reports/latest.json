@@ -1,13 +1,21 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "items": [
     {
-      "title": "Pesquisador da Anthropic demonstra IA autoaprimorável",
+      "title": "Pesquisador da Anthropic demonstra IA com autoaperfeiçoamento",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
       "category": "Pesquisa",
       "relevance": 5,
-      "summary_pt": "Sistemas automatizados conseguiram melhorar o desempenho em dez benchmarks de comportamentos desalinhados específicos sem prejudicar a performance geral. O avanço oferece um vislumbre prático de modelos de IA capazes de se autoaprimorarem de forma autônoma."
+      "summary_pt": "Sistemas automatizados conseguiram melhorar seu desempenho em benchmarks específicos de comportamentos desalinhados. O avanço ocorreu sem degradar a performance geral dos modelos. A demonstração oferece um vislumbre prático e preocupante de capacidades de IA autônoma e autoaperfeiçoável."
+    },
+    {
+      "title": "A vantagem da Nvidia em IA vai além das GPUs",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "category": "Produto/Ferramenta",
+      "relevance": 4,
+      "summary_pt": "A nova geração de sistemas para data centers está aumentando a eficiência através de um controle de tráfego mais inteligente. Em vez de depender apenas de mais ciclos de processamento bruto, a arquitetura otimiza a troca de dados. Isso demonstra que o ecossistema da Nvidia se fortalece também no software e na infraestrutura de rede."
     },
     {
       "title": "Neocloud Lambda capta US$ 1 bilhão para compra de chips",
@@ -15,47 +23,23 @@
       "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
       "category": "Negocios/Investimento",
       "relevance": 4,
-      "summary_pt": "A Neocloud Lambda levantou US$ 1 bilhão em dívida privada para adquirir chips de IA da Nvidia e alugá-los para a Microsoft. A operação destaca o custo financeiro massivo necessário para sustentar a infraestrutura do atual boom de inteligência artificial."
+      "summary_pt": "A Neocloud Lambda levantou US$ 1 bilhão em dívida privada para adquirir chips de IA da Nvidia e alugá-los para a Microsoft. Essa operação faz parte de uma onda recente de empréstimos vultosos na indústria. O movimento evidencia os custos astronômicos contínuos necessários para sustentar o boom da infraestrutura de IA."
     },
     {
-      "title": "Empresas de IA de pesos abertos são alvos quentes de aquisição",
+      "title": "Empresas de IA de pesos abertos são alvo de aquisições",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
       "category": "Negocios/Investimento",
       "relevance": 4,
-      "summary_pt": "Uma quantidade significativa de capital está sendo direcionada para o modelo de negócios de disponibilizar modelos de IA de código aberto. Grandes players do Vale do Silício veem essas empresas como alvos estratégicos de aquisição."
+      "summary_pt": "Uma imensa quantidade de capital tem sido direcionada para o modelo de negócios de disponibilizar pesos de modelos gratuitamente. Empresas focadas em IA de código aberto tornaram-se os alvos de aquisição mais disputados no Vale do Silício. A tendência reflete a corrida estratégica das grandes empresas de tecnologia por talentos e ecossistemas abertos."
     },
     {
-      "title": "Anthropic obtém vitória judicial contra rótulo de risco do Pentágono",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "category": "Politica/Regulacao",
+      "title": "Convertendo memória de LLMs em análise de programas",
+      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
+      "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "category": "Pesquisa",
       "relevance": 4,
-      "summary_pt": "Um juiz federal determinou que a administração Trump rotulou ilegalmente a Anthropic como um risco para a cadeia de suprimentos. Esta é uma importante vitória jurídica para a empresa de IA enquanto outros processos continuam em Washington."
-    },
-    {
-      "title": "Barret Zoph deixa OpenAI e se junta ao Google",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "category": "Negocios/Investimento",
-      "relevance": 4,
-      "summary_pt": "Barret Zoph, cofundador da Thinking Machines Lab e ex-CTO, teve uma passagem rápida pela OpenAI e agora faz parte da equipe do Google. A movimentação reforça a intensa disputa por talentos de alto escalão no setor de IA."
-    },
-    {
-      "title": "Governo dos EUA quer ocultar poluição de data centers",
-      "source": "AI | The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-      "category": "Politica/Regulacao",
-      "relevance": 4,
-      "summary_pt": "A Agência de Proteção Ambiental dos EUA planeja eliminar regras que exigem aviso público e consulta sobre a poluição gerada por grandes centros industriais. A mudança dificulta que comunidades locais questionem o impacto ambiental de novos data centers de IA."
-    },
-    {
-      "title": "Justiça decide que inclusão da Anthropic em lista negra foi ilegal",
-      "source": "AI | The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "category": "Politica/Regulacao",
-      "relevance": 4,
-      "summary_pt": "Um juiz considerou inconstitucional a decisão do Pentágono de colocar a Anthropic em uma lista de restrições no início do ano. A sentença encerra temporariamente um embate judicial tenso entre a empresa e o governo federal."
+      "summary_pt": "Este artigo explora uma abordagem inovadora para transformar a memória interna de modelos de linguagem em ferramentas de análise de código e programas. A técnica investiga como extrair e utilizar o conhecimento latente dos LLMs para fins de engenharia reversa e segurança. A discussão gerou forte engajamento entre desenvolvedores e especialistas em segurança."
     }
   ]
 }
