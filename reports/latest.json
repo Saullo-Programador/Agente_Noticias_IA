@@ -1,45 +1,29 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "items": [
     {
-      "title": "Pesquisador da Anthropic demonstra IA com autoaperfeiçoamento",
+      "title": "Sony Music e Warner processam Anthropic por pirataria",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "category": "Pesquisa",
-      "relevance": 5,
-      "summary_pt": "Sistemas automatizados conseguiram melhorar seu desempenho em benchmarks específicos de comportamentos desalinhados. O avanço ocorreu sem degradar a performance geral dos modelos. A demonstração oferece um vislumbre prático e preocupante de capacidades de IA autônoma e autoaperfeiçoável."
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "category": "Politica/Regulacao",
+      "relevance": 4,
+      "summary_pt": "As gigantes da música Sony e Warner abriram um processo abrangente contra a Anthropic, acusando a empresa de pirataria e roubo sistemático de propriedade intelectual. A ação legal foca no uso não autorizado de milhares de obras protegidas por direitos autorais no treinamento de modelos."
     },
     {
-      "title": "A vantagem da Nvidia em IA vai além das GPUs",
+      "title": "Vantagem da Nvidia em IA vai além das GPUs",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
       "category": "Produto/Ferramenta",
       "relevance": 4,
-      "summary_pt": "A nova geração de sistemas para data centers está aumentando a eficiência através de um controle de tráfego mais inteligente. Em vez de depender apenas de mais ciclos de processamento bruto, a arquitetura otimiza a troca de dados. Isso demonstra que o ecossistema da Nvidia se fortalece também no software e na infraestrutura de rede."
+      "summary_pt": "A nova geração de sistemas de data center da Nvidia está focando no controle inteligente de tráfego de dados para aumentar a eficiência. A estratégia mostra que a empresa busca liderança não apenas através de poder de processamento puro, mas também na arquitetura geral de rede."
     },
     {
-      "title": "Neocloud Lambda capta US$ 1 bilhão para compra de chips",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "category": "Negocios/Investimento",
+      "title": "Sony Music Publishing e Warner Chappell processam Anthropic",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "category": "Politica/Regulacao",
       "relevance": 4,
-      "summary_pt": "A Neocloud Lambda levantou US$ 1 bilhão em dívida privada para adquirir chips de IA da Nvidia e alugá-los para a Microsoft. Essa operação faz parte de uma onda recente de empréstimos vultosos na indústria. O movimento evidencia os custos astronômicos contínuos necessários para sustentar o boom da infraestrutura de IA."
-    },
-    {
-      "title": "Empresas de IA de pesos abertos são alvo de aquisições",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "category": "Negocios/Investimento",
-      "relevance": 4,
-      "summary_pt": "Uma imensa quantidade de capital tem sido direcionada para o modelo de negócios de disponibilizar pesos de modelos gratuitamente. Empresas focadas em IA de código aberto tornaram-se os alvos de aquisição mais disputados no Vale do Silício. A tendência reflete a corrida estratégica das grandes empresas de tecnologia por talentos e ecossistemas abertos."
-    },
-    {
-      "title": "Convertendo memória de LLMs em análise de programas",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
-      "category": "Pesquisa",
-      "relevance": 4,
-      "summary_pt": "Este artigo explora uma abordagem inovadora para transformar a memória interna de modelos de linguagem em ferramentas de análise de código e programas. A técnica investiga como extrair e utilizar o conhecimento latente dos LLMs para fins de engenharia reversa e segurança. A discussão gerou forte engajamento entre desenvolvedores e especialistas em segurança."
+      "summary_pt": "Editoras musicais entraram com uma ação judicial no Tribunal Distrital da Califórnia buscando indenizações por dezenas de milhares de obras protegidas. Elas pedem compensações por cada trabalho violado e por instâncias de remoção de metadados de direitos autorais."
     }
   ]
 }
