@@ -1,29 +1,53 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "items": [
     {
-      "title": "Sony Music e Warner processam Anthropic por pirataria",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "category": "Politica/Regulacao",
-      "relevance": 4,
-      "summary_pt": "As gigantes da música Sony e Warner abriram um processo abrangente contra a Anthropic, acusando a empresa de pirataria e roubo sistemático de propriedade intelectual. A ação legal foca no uso não autorizado de milhares de obras protegidas por direitos autorais no treinamento de modelos."
+      "title": "ChatGPT Ads atinge US$ 1 bilhão e expande globalmente",
+      "source": "OpenAI News",
+      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "category": "Negocios/Investimento",
+      "relevance": 5,
+      "summary_pt": "A OpenAI anunciou que a iniciativa de anúncios no ChatGPT alcançou um ritmo de receita anualizada de US$ 1 bilhão. A estratégia visa expandir o acesso global à IA por meio de opções gratuitas e de baixo custo. O movimento marca uma mudança importante no modelo de monetização de grandes plataformas conversacionais."
     },
     {
-      "title": "Vantagem da Nvidia em IA vai além das GPUs",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "title": "Investimento de US$ 3,5 bilhões da Nvidia na MediaTek",
+      "source": "AI News & ArtificialIntelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "category": "Negocios/Investimento",
+      "relevance": 4,
+      "summary_pt": "A Nvidia investiu US$ 3,5 bilhões na fabricante taiwanesa de chips MediaTek. O acordo estratégica visa garantir a relevância da infraestrutura da Nvidia enquanto grandes empresas de tecnologia desenvolvem seus próprios chips."
+    },
+    {
+      "title": "Debian aprova o uso de código gerado por IA em sua distribuição Linux",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "category": "Outro",
+      "relevance": 4,
+      "summary_pt": "A comunidade Debian votou para permitir que desenvolvedores utilizem ferramentas de IA no desenvolvimento e documentação do Linux. A nova diretriz reconhece que o uso responsável pode aumentar a produtividade sem impor restrições excessivas."
+    },
+    {
+      "title": "ChatGPT enfrentará regulamentação mais rígida na União Europeia",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "category": "Politica/Regulacao",
+      "relevance": 4,
+      "summary_pt": "O ChatGPT agora é classificado como um Grande Mecanismo de Busca Online sob a Lei de Serviços Digitais da União Europeia. A mudança obriga a OpenAI a mitigar riscos relacionados a menores, saúde mental e propagação de conteúdos ilegais."
+    },
+    {
+      "title": "Demanda por IA surpreende a Apple nos novos Mac Mini e Mac Studio",
+      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
+      "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "category": "Negocios/Investimento",
+      "relevance": 4,
+      "summary_pt": "A Apple foi pega de surpresa pela alta demanda por modelos Mac Mini e Mac Studio impulsionados por cargas de trabalho de IA. O aumento reflete a rápida adoção de hardware local otimizado para machine learning por profissionais."
+    },
+    {
+      "title": "Agente de IA da Meta apaga e-mails por acidente",
+      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
+      "link": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
       "category": "Produto/Ferramenta",
       "relevance": 4,
-      "summary_pt": "A nova geração de sistemas de data center da Nvidia está focando no controle inteligente de tráfego de dados para aumentar a eficiência. A estratégia mostra que a empresa busca liderança não apenas através de poder de processamento puro, mas também na arquitetura geral de rede."
-    },
-    {
-      "title": "Sony Music Publishing e Warner Chappell processam Anthropic",
-      "source": "AI | The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "category": "Politica/Regulacao",
-      "relevance": 4,
-      "summary_pt": "Editoras musicais entraram com uma ação judicial no Tribunal Distrital da Califórnia buscando indenizações por dezenas de milhares de obras protegidas. Elas pedem compensações por cada trabalho violado e por instâncias de remoção de metadados de direitos autorais."
+      "summary_pt": "Um agente de inteligência artificial desenvolvido por uma pesquisadora de segurança da Meta excluiu acidentalmente seus e-mails. O incidente destaca os riscos operacionais e de controle na implementação prática de agentes autônomos. Casos como este reforçam a necessidade de salvaguardas rigorosas para evitar ações destrutivas não intencionais."
     }
   ]
 }
