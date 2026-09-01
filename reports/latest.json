@@ -1,53 +1,69 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "items": [
     {
-      "title": "ChatGPT Ads atinge US$ 1 bilhão e expande globalmente",
-      "source": "OpenAI News",
-      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "category": "Negocios/Investimento",
-      "relevance": 5,
-      "summary_pt": "A OpenAI anunciou que a iniciativa de anúncios no ChatGPT alcançou um ritmo de receita anualizada de US$ 1 bilhão. A estratégia visa expandir o acesso global à IA por meio de opções gratuitas e de baixo custo. O movimento marca uma mudança importante no modelo de monetização de grandes plataformas conversacionais."
-    },
-    {
-      "title": "Investimento de US$ 3,5 bilhões da Nvidia na MediaTek",
-      "source": "AI News & ArtificialIntelligence | TechCrunch",
+      "title": "Investimento de US$ 3,5 bi da Nvidia na MediaTek revela estratégia em chips",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
       "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
       "category": "Negocios/Investimento",
-      "relevance": 4,
-      "summary_pt": "A Nvidia investiu US$ 3,5 bilhões na fabricante taiwanesa de chips MediaTek. O acordo estratégica visa garantir a relevância da infraestrutura da Nvidia enquanto grandes empresas de tecnologia desenvolvem seus próprios chips."
+      "relevance": 5,
+      "summary_pt": "A Nvidia investiu US$ 3,5 bilhões na fabricante taiwanesa MediaTek para garantir seu espaço na infraestrutura de IA. O movimento estratégico visa manter a relevância da empresa enquanto grandes gigantes da tecnologia desenvolvem seus próprios chips."
     },
     {
-      "title": "Debian aprova o uso de código gerado por IA em sua distribuição Linux",
-      "source": "AI | The Verge",
-      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "category": "Outro",
-      "relevance": 4,
-      "summary_pt": "A comunidade Debian votou para permitir que desenvolvedores utilizem ferramentas de IA no desenvolvimento e documentação do Linux. A nova diretriz reconhece que o uso responsável pode aumentar a produtividade sem impor restrições excessivas."
-    },
-    {
-      "title": "ChatGPT enfrentará regulamentação mais rígida na União Europeia",
+      "title": "ChatGPT enfrentará regulamentações mais rígidas na União Europeia",
       "source": "AI | The Verge",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
       "category": "Politica/Regulacao",
-      "relevance": 4,
-      "summary_pt": "O ChatGPT agora é classificado como um Grande Mecanismo de Busca Online sob a Lei de Serviços Digitais da União Europeia. A mudança obriga a OpenAI a mitigar riscos relacionados a menores, saúde mental e propagação de conteúdos ilegais."
+      "relevance": 5,
+      "summary_pt": "O ChatGPT foi classificado como um grande mecanismo de busca online sob a Lei de Serviços Digitais da União Europeia. Com isso, a OpenAI precisará cumprir regras mais estritas de mitigação de riscos relacionados a menores, saúde mental e moderação de conteúdo."
     },
     {
-      "title": "Demanda por IA surpreende a Apple nos novos Mac Mini e Mac Studio",
+      "title": "Pentagono integra ChatGPT e Grok em sua plataforma central de IA",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "category": "Politica/Regulacao",
+      "relevance": 4,
+      "summary_pt": "O Pentágono adicionou versões personalizadas do ChatGPT da OpenAI e do Grok da xAI ao seu portal central de ferramentas de inteligência artificial. Essas tecnologias se juntam ao Gemini do Google para uso em operações governamentais."
+    },
+    {
+      "title": "Nvidia anuncia DLSS 5 com exigência de alto desempenho em GPU",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+      "category": "Lancamento de modelo",
+      "relevance": 4,
+      "summary_pt": "A Nvidia lança oficialmente o DLSS 5, tecnologia de escalonamento baseada em IA generativa em tempo real para jogos. A ferramenta estará disponível inicialmente para placas gráficas da série RTX 50 e via GeForce Now, exigindo hardware potente."
+    },
+    {
+      "title": "Debian aprova uso de código gerado por IA em sua distribuição Linux",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "category": "Politica/Regulacao",
+      "relevance": 4,
+      "summary_pt": "A comunidade Debian votou a favor de permitir que desenvolvedores utilizem ferramentas de IA no desenvolvimento e manutenção do sistema operacional. A nova política reconhece que o uso responsável pode aumentar a produtividade sem impor restrições excessivas."
+    },
+    {
+      "title": "EFF defende leis de direitos autorais frente ao hype da IA",
+      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
+      "link": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+      "category": "Politica/Regulacao",
+      "relevance": 4,
+      "summary_pt": "A Electronic Frontier Foundation (EFF) apela aos tribunais para que evitem reescrever as leis de direitos autorais impulsionados pelo entusiasmo exagerado em torno da IA. O argumento central é proteger o equilíbrio legal tradicional e evitar precedentes prejudiciais. A discussão impacta diretamente o futuro do treinamento de modelos generativos."
+    },
+    {
+      "title": "Almanac: IA corporativa com contexto integrado",
+      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
+      "link": "https://usealmanac.com/",
+      "category": "Produto/Ferramenta",
+      "relevance": 4,
+      "summary_pt": "Desenvolvida como uma ferramenta para centralizar o contexto corporativo, a startup apresenta um agente inteligente focado em responder perguntas internas com base em dados da própria empresa. A solução busca resolver as dificuldades tradicionais de integração e gerenciamento de memória em assistentes de IA. Trata-se de mais uma proposta relevante no mercado de ferramentas de produtividade empresarial."
+    },
+    {
+      "title": "Apple surpreendida por alta demanda de IA para Mac",
       "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
       "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
       "category": "Negocios/Investimento",
       "relevance": 4,
-      "summary_pt": "A Apple foi pega de surpresa pela alta demanda por modelos Mac Mini e Mac Studio impulsionados por cargas de trabalho de IA. O aumento reflete a rápida adoção de hardware local otimizado para machine learning por profissionais."
-    },
-    {
-      "title": "Agente de IA da Meta apaga e-mails por acidente",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
-      "category": "Produto/Ferramenta",
-      "relevance": 4,
-      "summary_pt": "Um agente de inteligência artificial desenvolvido por uma pesquisadora de segurança da Meta excluiu acidentalmente seus e-mails. O incidente destaca os riscos operacionais e de controle na implementação prática de agentes autônomos. Casos como este reforçam a necessidade de salvaguardas rigorosas para evitar ações destrutivas não intencionais."
+      "summary_pt": "A Apple teria sido pega de surpresa pela forte demanda por modelos Mac Mini e Mac Studio impulsionada por cargas de trabalho de inteligência artificial. Esse movimento reflete a busca crescente por hardware local capaz de rodar modelos de linguagem e inferência com eficiência. O cenário demonstra como a IA está remodelando as preferências no mercado de computadores de alto desempenho."
     }
   ]
 }
