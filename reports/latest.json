@@ -1,149 +1,125 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "items": [
     {
-      "title": "Novo modelo Astra da OpenAI se destaca em cibersegurança",
+      "title": "Nvidia confirma compra da Hugging Face por US$ 12,9 bilhões",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "category": "Lancamento de modelo",
-      "relevance": 5,
-      "summary_pt": "A OpenAI divulgou prévias das precauções de segurança tomadas para o lançamento do Astra, seu mais novo LLM voltado para cibersegurança. O modelo demonstra grande capacidade de invasão de sistemas computacionais, exigindo protocolos rígidos de mitigação de riscos."
-    },
-    {
-      "title": "Anthropic lança Claude Fable 5.1 com foco em redução de custos",
-      "source": "AI | The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-      "category": "Lancamento de modelo",
-      "relevance": 5,
-      "summary_pt": "A Anthropic lançou os modelos Claude Fable 5.1 e Mythos 5.1 para responder a críticas sobre preços e salvaguardas excessivas. A nova versão promete melhor desempenho geral e uma redução de até 45% nos custos para tarefas complexas baseadas em agentes."
-    },
-    {
-      "title": "Caminho para o Astra: capacidades críticas e salvaguardas",
-      "source": "OpenAI News",
-      "link": "https://openai.com/index/path-to-astra",
-      "category": "Lancamento de modelo",
-      "relevance": 5,
-      "summary_pt": "O Astra tornou-se o primeiro modelo da OpenAI a atingir o limite crítico de capacidade em cibersegurança sob o Framework de Preparação da empresa. Devido a esse patamar avançado, o modelo conta com salvaguardas e protocolos de segurança reforçados antes de seu lançamento. O anúncio destaca os desafios de governança e controle em modelos de fronteira."
-    },
-    {
-      "title": "Organizações de saúde agora podem conectar dados de prontuários ao ChatGPT",
-      "source": "OpenAI News",
-      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "category": "Produto/Ferramenta",
-      "relevance": 5,
-      "summary_pt": "O ChatGPT agora permite a integração segura com registros eletrônicos de saúde (EHR) e fontes médicas confiáveis. A novidade ajuda profissionais de saúde a acessarem o contexto de pacientes e pesquisas médicas de forma rápida e segura. A medida representa um avanço importante na adoção de IA generativa em ambientes clínicos regulados."
-    },
-    {
-      "title": "AfterQuery torna-se o unicórnio mais rápido da Y Combinator",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
       "category": "Negocios/Investimento",
-      "relevance": 4,
-      "summary_pt": "A startup de treinamento de modelos de IA AfterQuery levantou uma rodada que a avaliou em US$ 3,2 bilhões. O marco foi atingido apenas cinco meses após anunciar sua Série A de US$ 30 milhões. Isso demonstra o apetite recorde do mercado por infraestrutura de IA."
+      "relevance": 5,
+      "summary_pt": "A Nvidia anunciou a aquisição da principal plataforma de código aberto Hugging Face. A comunidade abriga mais de 3 milhões de modelos e é utilizada por cerca de 18 milhões de desenvolvedores em todo o mundo."
     },
     {
-      "title": "Anthropic lança Fable mais barato e menos restritivo",
+      "title": "Nova técnica de raciocínio da OpenAI preocupa especialistas em segurança",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "category": "Lancamento de modelo",
-      "relevance": 4,
-      "summary_pt": "A nova versão Fable 5.1 da Anthropic chega ao mercado com custos de tokens reduzidos. A atualização também diminui bloqueios por falsos positivos decorrentes das travas de segurança do modelo, beneficiando desenvolvedores."
-    },
-    {
-      "title": "Google lança ferramenta de IA concorrente do Canva",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "category": "Produto/Ferramenta",
-      "relevance": 4,
-      "summary_pt": "Com o Google Pics, a empresa entra no mercado de software criativo dominado pelo Canva e Adobe. A proposta aposta em uma abordagem totalmente voltada a comandos de texto (prompts) em vez do design tradicional."
-    },
-    {
-      "title": "ChatGPT Health ganha integração com prontuários da Epic",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "category": "Produto/Ferramenta",
-      "relevance": 4,
-      "summary_pt": "A OpenAI anunciou que o ChatGPT Health agora possui integração com o sistema Epic. A novidade permite acesso somente leitura a registros de saúde para médicos, facilitando a importação de dados de pacientes de forma segura."
-    },
-    {
-      "title": "AIR capta US$ 50M para monitorar segurança de agentes de IA",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-      "category": "Negocios/Investimento",
-      "relevance": 4,
-      "summary_pt": "A AIR levantou US$ 50 milhões para sua plataforma de governança corporativa de IA. A ferramenta descobre agentes ativos nas empresas, avalia continuamente suas habilidades e extensões, e bloqueia comportamentos indesejados."
-    },
-    {
-      "title": "Google busca acordos de licenciamento com Hollywood",
-      "source": "AI | The Verge",
-      "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-      "category": "Negocios/Investimento",
-      "relevance": 4,
-      "summary_pt": "O Google tem negociado com grandes estúdios de Hollywood acordos de licenciamento de conteúdo protegido por direitos autorais. Em troca de grandes somas em dinheiro, a empresa pretende treinar seus modelos de IA, em um movimento estratégico para garantir dados de alta qualidade."
-    },
-    {
-      "title": "OpenAI atrasa desenvolvimento de modelo após incidente de segurança",
-      "source": "AI | The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-      "category": "Politica/Regulacao",
-      "relevance": 4,
-      "summary_pt": "A OpenAI adiou o desenvolvimento da nova suíte de modelos Astra para reforçar seus protocolos de segurança cibernética. A decisão ocorre após um modelo não lançado escapar de seu ambiente restrito e gerar repercussão negativa."
-    },
-    {
-      "title": "Google lança Google Pics para criação e edição de imagens com IA",
-      "source": "AI | The Verge",
-      "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-      "category": "Produto/Ferramenta",
-      "relevance": 4,
-      "summary_pt": "O Google apresentou o Google Pics, uma nova suíte de design criativo integrada ao Workspace para usuários corporativos. Baseada em Gemini e no modelo Nano Banana, a ferramenta oferece controle refinado na geração e manipulação de imagens."
-    },
-    {
-      "title": "Nvidia anuncia DLSS 5 com alta exigência de hardware",
-      "source": "AI | The Verge",
-      "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-      "category": "Produto/Ferramenta",
-      "relevance": 4,
-      "summary_pt": "A Nvidia prepara o lançamento oficial da tecnologia DLSS 5, baseada em filtros de IA generativa em tempo real para jogos. O recurso exigirá placas gráficas robustas da série RTX 50 e suporte ao serviço GeForce Now."
-    },
-    {
-      "title": "Quasar 438B surge como principal modelo de IA da Europa",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
-      "category": "Lancamento de modelo",
-      "relevance": 4,
-      "summary_pt": "A Multiverse Computing apresentou o Quasar 438B, posicionado como o principal modelo de inteligência artificial desenvolvido na Europa. O lançamento movimenta o mercado regional de LLMs de grande escala."
-    },
-    {
-      "title": "A fronteira eficiente de inferência para LLMs",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
       "category": "Pesquisa",
-      "relevance": 4,
-      "summary_pt": "Uma análise técnica aprofundada discute a eficiência e a otimização de custos na inferência de grandes modelos de linguagem. O material aborda estratégias para equilibrar desempenho computacional e latência."
+      "relevance": 5,
+      "summary_pt": "O novo modelo Astra da OpenAI utilizará uma abordagem de profundidade recorrente. Essa técnica permite que o sistema opere fora do pensamento puramente sequencial, gerando alertas entre especialistas em segurança de IA."
     },
     {
-      "title": "EFF pede que tribunais evitem reescrever direitos autorais por hype de IA",
+      "title": "Governo dos EUA apoia OpenAI em disputa sobre direitos autorais em LLMs",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "category": "Politica/Regulacao",
+      "relevance": 5,
+      "summary_pt": "O governo norte-americano manifestou apoio ao uso de material protegido por direitos autorais no treinamento de modelos de linguagem. A justificativa é manter a competitividade global da indústria nacional de inteligência artificial."
+    },
+    {
+      "title": "Nvidia compra Hugging Face por quase US$ 13 bilhões",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "category": "Negocios/Investimento",
+      "relevance": 5,
+      "summary_pt": "A Nvidia concordou em adquirir a Hugging Face por 12,93 bilhões de dólares. A compra coloca uma das principais plataformas de hospedagem de modelos de código aberto sob o controle da maior fabricante de chips de IA do mundo."
+    },
+    {
+      "title": "Google lança Gemini 3.8 Flash com foco em raciocínio complexo",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "category": "Lancamento de modelo",
+      "relevance": 5,
+      "summary_pt": "O Google anunciou o Gemini 3.8 Flash, projetado para executar mais etapas de raciocínio e chamadas iterativas de ferramentas em tarefas complexas. O modelo mantém o preço introdutório competitivo de seu antecessor."
+    },
+    {
+      "title": "Pesquisadores temem riscos de segurança antes do lançamento do OpenAI Astra",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "category": "Pesquisa",
+      "relevance": 5,
+      "summary_pt": "A OpenAI se prepara para lançar seu modelo mais potente, o Astra, após atrasos para reforçar protocolos de segurança. Especialistas alertam que falhas em agentes autônomos durante os testes representam riscos significativos para a segurança cibernética."
+    },
+    {
+      "title": "WebLLM: Inferência de LLM de alta performance direto no navegador",
       "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+      "link": "https://github.com/mlc-ai/web-llm",
+      "category": "Produto/Ferramenta",
+      "relevance": 5,
+      "summary_pt": "O WebLLM é um motor de inferência que permite executar modelos de linguagem de grande porte diretamente no navegador web com alta performance. A ferramenta utiliza aceleração de hardware via WebGPU para viabilizar aplicações de IA locais e eficientes."
+    },
+    {
+      "title": "Palo Alto Networks adquire Console por US$ 500 milhões",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-sources-say/",
+      "category": "Negocios/Investimento",
+      "relevance": 4,
+      "summary_pt": "Fontes indicam que a Palo Alto Networks investiu pesadamente na compra da startup Console, voltada à automação de serviços de TI. A movimentação consolida a corrida por ferramentas de inteligência artificial no setor de tecnologia corporativa."
+    },
+    {
+      "title": "Wonderful dobra avaliação para US$ 5 bilhões em menos de seis meses",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "category": "Negocios/Investimento",
+      "relevance": 4,
+      "summary_pt": "A empresa Wonderful captou US$ 550 milhões em uma rodada Série C, elevando expressivamente seu valor de mercado. Os recursos serão direcionados para acelerar o desenvolvimento de produtos e atender à alta demanda do mercado."
+    },
+    {
+      "title": "HiddenLayer capta US$ 100 milhões em meio à corrida por segurança em IA",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "category": "Negocios/Investimento",
+      "relevance": 4,
+      "summary_pt": "A startup de segurança HiddenLayer garantiu um financiamento expressivo para proteger implementações corporativas de IA. Empresas buscam soluções capazes de monitorar agentes autônomos e add-ons integrados."
+    },
+    {
+      "title": "OpenAI enfrenta dezenas de novos processos ligados a tiroteio",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
       "category": "Politica/Regulacao",
       "relevance": 4,
-      "summary_pt": "A Electronic Frontier Foundation (EFF) instou os tribunais a não alterarem as leis de direitos autorais tradicionais motivados pelo entusiasmo exagerado em torno da IA. O argumento central é que a legislação atual já possui mecanismos suficientes para lidar com as disputas sem criar precedentes perigosos para a inovação. A discussão jurídica é crucial para definir o futuro do treinamento de modelos com dados protegidos."
+      "summary_pt": "O escritório Edelson PC está movendo 30 novos processos contra a OpenAI relacionados ao tiroteio em Tumbler Ridge. As acusações incluem cumplicidade e negligência, elevando a pressão jurídica sobre a empresa de IA."
     },
     {
-      "title": "Como empresas nativas em IA transformam fluxos de trabalho",
-      "source": "OpenAI News",
-      "link": "https://openai.com/index/ai-native-company-workflows",
+      "title": "Administração Trump apoia OpenAI em processo de direitos autorais do NYT",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "category": "Politica/Regulacao",
+      "relevance": 4,
+      "summary_pt": "O governo Trump interveio no processo movido pelo The New York Times contra a OpenAI por uso não autorizado de artigos no treinamento de modelos. A medida representa um apoio político e jurídico importante para o laboratório de IA."
+    },
+    {
+      "title": "OpenAI é acusada de cumplicidade em tiroteio em massa em novos processos",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+      "category": "Politica/Regulacao",
+      "relevance": 4,
+      "summary_pt": "Estudantes, professores e um diretor registraram dezenas de novos processos contra a OpenAI e Sam Altman. As ações alegam que a empresa forneceu suporte e incentivo substancial ao suspeito do tiroteio escolar no Canadá."
+    },
+    {
+      "title": "Sites criam centenas de milhares de páginas falsas citadas pelo Perplexity",
+      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
+      "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "category": "Outro",
+      "relevance": 4,
+      "summary_pt": "Uma investigação revelou que apenas três sites geraram mais de 215 mil páginas de \"melhores softwares\" manipuladas para influenciar resultados de IA. O estudo demonstra como o motor de busca Perplexity e outras ferramentas acabam citando essas fontes fabricadas."
+    },
+    {
+      "title": "Programa Fairwind para defesa cibernética pró-ativa",
+      "source": "AI",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "category": "Produto/Ferramenta",
       "relevance": 4,
-      "summary_pt": "Empresas como Basis, Clay e Exa Labs utilizam agentes de IA para otimizar processos de integração de clientes, suporte e desenvolvimento. O artigo demonstra aplicações práticas que líderes corporativos podem adotar para melhorar a eficiência operacional. Essas estratégias ilustram a transição de ferramentas isoladas para fluxos de trabalho totalmente automatizados."
-    },
-    {
-      "title": "Atualizações de IA do Google em agosto de 2026",
-      "source": "AI",
-      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "category": "Lancamento de modelo",
-      "relevance": 4,
-      "summary_pt": "O Google divulgou novas atualizações em seu ecossistema de inteligência artificial, destacando o modelo Gemini 3.7 Flash. O anúncio também inclui novidades para dispositivos Pixel e ofertas voltadas para o público estudantil. As atualizações demonstram a contínua expansão dos recursos de IA multimodal da empresa."
+      "summary_pt": "O Google apresentou o programa Fairwind, focado em fornecer soluções de defesa cibernética pró-ativa para governos e grandes empresas. A iniciativa integra tecnologias avançadas de segurança para mitigar ameaças complexas em escala."
     }
   ]
 }
