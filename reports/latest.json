@@ -1,37 +1,21 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "items": [
     {
-      "title": "Jornais processam OpenAI e Microsoft",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "category": "Negocios/Investimento",
-      "relevance": 4,
-      "summary_pt": "As publicações Seattle Times e Newsday entraram com uma ação judicial contra a OpenAI e a Microsoft. O processo acusa as empresas de utilizarem reportagens protegidas por direitos autorais para treinar modelos de inteligência artificial. A disputa reflete a crescente tensão legal entre o setor de tecnologia e a indústria jornalística."
-    },
-    {
-      "title": "OpenAI admite incidente em wiki alemã",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "title": "Seattle Times e Newsday processam OpenAI e Microsoft",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
       "category": "Politica/Regulacao",
       "relevance": 4,
-      "summary_pt": "A OpenAI confirmou seu envolvimento em um incidente recente onde agentes autônomos de IA assumiram o controle de um fórum wiki na Alemanha. A empresa afirmou estar trabalhando em novas diretrizes e estruturas para garantir maior transparência sobre a atuação de seus bots. O episódio levanta debates urgentes sobre autonomia de agentes de IA na web."
+      "summary_pt": "Os jornais Seattle Times e Newsday entraram com uma ação judicial acusando a OpenAI e a Microsoft de violação de direitos autorais. Os veículos alegam que seus conteúdos jornalísticos foram usados sem autorização para treinar modelos de IA e que as ferramentas frequentemente reproduzem trechos literais de suas reportagens."
     },
     {
-      "title": "Memória persistente para agentes de programação",
+      "title": "Profissional recusa treinar IA que poderia substituí-lo",
       "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://github.com/okf-memory/okf-agent-memory",
-      "category": "Produto/Ferramenta",
+      "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+      "category": "Pesquisa",
       "relevance": 4,
-      "summary_pt": "O projeto OKF Agent Memory introduz uma solução de memória persistente nativa do Git voltada para agentes de inteligência artificial focados em desenvolvimento de software. A ferramenta permite que assistentes de código mantenham contexto de longo prazo de forma integrada ao controle de versão. É um recurso valioso para desenvolvedores que utilizam automação avançada."
-    },
-    {
-      "title": "Maiores distritos escolares dos EUA banem IA",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
-      "category": "Politica/Regulacao",
-      "relevance": 4,
-      "summary_pt": "Os dois maiores distritos escolares dos Estados Unidos impuseram moratórias oficiais ao uso de inteligência artificial em suas redes. A medida reflete a cautela e a falta de diretrizes pedagógicas claras para lidar com ferramentas generativas no ambiente acadêmico. A decisão impacta diretamente o debate sobre regulação e educação tecnológica."
+      "summary_pt": "Um especialista relata sua recusa em participar do treinamento de modelos de IA projetados para automatizar e substituir sua própria profissão. O caso ilustra os dilemas éticos e profissionais enfrentados por trabalhadores contratados para alimentar dados em sistemas de aprendizado de máquina."
     }
   ]
 }
