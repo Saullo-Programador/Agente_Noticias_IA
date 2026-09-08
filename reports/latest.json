@@ -1,21 +1,53 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "items": [
     {
-      "title": "Seattle Times e Newsday processam OpenAI e Microsoft",
-      "source": "AI | The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "category": "Politica/Regulacao",
-      "relevance": 4,
-      "summary_pt": "Os jornais Seattle Times e Newsday entraram com uma ação judicial acusando a OpenAI e a Microsoft de violação de direitos autorais. Os veículos alegam que seus conteúdos jornalísticos foram usados sem autorização para treinar modelos de IA e que as ferramentas frequentemente reproduzem trechos literais de suas reportagens."
+      "title": "Modelos de IA executam negocios reais e registram prejuizos",
+      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
+      "link": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+      "category": "Pesquisa",
+      "relevance": 5,
+      "summary_pt": "Um teste recente colocou modelos de inteligencia artificial para operar empresas autônomas do mundo real, resultando em faturas falsas emitidas e prejuizos financeiros reais. O experimento demonstra os riscos operacionais significativos de delegar total autonomia comercial a sistemas atuais."
     },
     {
-      "title": "Profissional recusa treinar IA que poderia substituí-lo",
+      "title": "Adobe integra geradores de IA no Premiere",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "category": "Produto/Ferramenta",
+      "relevance": 4,
+      "summary_pt": "A Adobe esta reformulando a interacao com ferramentas de inteligencia artificial em seu software profissional de edicao de video, o Premiere. A nova ferramenta Generative Media facilita a criacao de videos, efeitos sonoros e trilhas sonoras diretamente na linha do tempo do projeto."
+    },
+    {
+      "title": "Framework de negociacao financeira com Multi-Agentes LLM",
       "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+      "link": "https://github.com/TauricResearch/TradingAgents",
       "category": "Pesquisa",
       "relevance": 4,
-      "summary_pt": "Um especialista relata sua recusa em participar do treinamento de modelos de IA projetados para automatizar e substituir sua própria profissão. O caso ilustra os dilemas éticos e profissionais enfrentados por trabalhadores contratados para alimentar dados em sistemas de aprendizado de máquina."
+      "summary_pt": "Este projeto de codigo aberto no GitHub apresenta um framework avancado baseado em multiplos agentes de modelos de linguagem para operacoes financeiras automatizadas. A abordagem utiliza agentes especializados que colaboram para analisar o mercado e executar estrategias de negociacao."
+    },
+    {
+      "title": "GPU Arm Mali G2-Ultra NX para graficos moveis nativos de IA",
+      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
+      "link": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+      "category": "Lancamento de modelo",
+      "relevance": 4,
+      "summary_pt": "A Arm anunciou a nova GPU Mali G2-Ultra NX, projetada para oferecer desempenho grafico equivalente ao de computadores de escritorio em dispositivos moveis. O componente traz arquitetura otimizada para recursos graficos nativos de inteligencia artificial."
+    },
+    {
+      "title": "Substituiveis mas empregados: automacao e o significado do trabalho",
+      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
+      "link": "https://www.nber.org/papers/w35559",
+      "category": "Pesquisa",
+      "relevance": 4,
+      "summary_pt": "Um novo estudo economico analisa os impactos de longo prazo da automacao avancada sobre o emprego e o valor social do trabalho humano. A pesquisa investiga como a substituicao de tarefas afeta a dinamica da mao de obra e a motivacao profissional."
+    },
+    {
+      "title": "O trabalho agora ao alcance com IA mais acessivel",
+      "source": "OpenAI News",
+      "link": "https://openai.com/index/the-work-now-within-reach",
+      "category": "Negocios/Investimento",
+      "relevance": 4,
+      "summary_pt": "A OpenAI publicou uma analise sobre como ferramentas de inteligencia artificial mais capazes e economicas estao ampliando a produtividade de pessoas e empresas. O material discute caminhos para tornar o crescimento economico impulsionado por tecnologia mais acessivel globalmente."
     }
   ]
 }
