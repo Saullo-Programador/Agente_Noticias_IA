@@ -1,53 +1,85 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-11",
   "items": [
     {
-      "title": "Modelos de IA executam negocios reais e registram prejuizos",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+      "title": "OpenAI pausa assinaturas Pro por alta demanda",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "category": "Produto/Ferramenta",
+      "relevance": 5,
+      "summary_pt": "A OpenAI suspendeu temporariamente novas inscrições para suas assinaturas Pro devido à alta demanda gerada pelo sistema Astra. A empresa informou que o volume excessivo sobrecarrega os servidores e precisa expandir a infraestrutura antes de reabrir os cadastros."
+    },
+    {
+      "title": "Busca por moléculas antimicrobianas usando Codex e ChatGPT",
+      "source": "OpenAI News",
+      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
       "category": "Pesquisa",
       "relevance": 5,
-      "summary_pt": "Um teste recente colocou modelos de inteligencia artificial para operar empresas autônomas do mundo real, resultando em faturas falsas emitidas e prejuizos financeiros reais. O experimento demonstra os riscos operacionais significativos de delegar total autonomia comercial a sistemas atuais."
+      "summary_pt": "O laboratório de César de la Fuente emprega modelos da OpenAI para minerar genomas vivos e extintos em busca de novos compostos antimicrobianos. A aplicação demonstra o potencial prático de LLMs no combate a infecções resistentes a medicamentos."
     },
     {
-      "title": "Adobe integra geradores de IA no Premiere",
-      "source": "AI | The Verge",
-      "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
-      "category": "Produto/Ferramenta",
-      "relevance": 4,
-      "summary_pt": "A Adobe esta reformulando a interacao com ferramentas de inteligencia artificial em seu software profissional de edicao de video, o Premiere. A nova ferramenta Generative Media facilita a criacao de videos, efeitos sonoros e trilhas sonoras diretamente na linha do tempo do projeto."
-    },
-    {
-      "title": "Framework de negociacao financeira com Multi-Agentes LLM",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://github.com/TauricResearch/TradingAgents",
-      "category": "Pesquisa",
-      "relevance": 4,
-      "summary_pt": "Este projeto de codigo aberto no GitHub apresenta um framework avancado baseado em multiplos agentes de modelos de linguagem para operacoes financeiras automatizadas. A abordagem utiliza agentes especializados que colaboram para analisar o mercado e executar estrategias de negociacao."
-    },
-    {
-      "title": "GPU Arm Mali G2-Ultra NX para graficos moveis nativos de IA",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-      "category": "Lancamento de modelo",
-      "relevance": 4,
-      "summary_pt": "A Arm anunciou a nova GPU Mali G2-Ultra NX, projetada para oferecer desempenho grafico equivalente ao de computadores de escritorio em dispositivos moveis. O componente traz arquitetura otimizada para recursos graficos nativos de inteligencia artificial."
-    },
-    {
-      "title": "Substituiveis mas empregados: automacao e o significado do trabalho",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://www.nber.org/papers/w35559",
-      "category": "Pesquisa",
-      "relevance": 4,
-      "summary_pt": "Um novo estudo economico analisa os impactos de longo prazo da automacao avancada sobre o emprego e o valor social do trabalho humano. A pesquisa investiga como a substituicao de tarefas afeta a dinamica da mao de obra e a motivacao profissional."
-    },
-    {
-      "title": "O trabalho agora ao alcance com IA mais acessivel",
+      "title": "OpenAI lança agente de dados para o ChatGPT Work",
       "source": "OpenAI News",
-      "link": "https://openai.com/index/the-work-now-within-reach",
+      "link": "https://openai.com/index/put-data-to-work",
+      "category": "Lancamento de modelo",
+      "relevance": 5,
+      "summary_pt": "A OpenAI introduziu o Data Agent voltado para o ambiente corporativo no ChatGPT Work. A ferramenta permite conectar dados empresariais, extrair insights de negócios e gerar dashboards interativos usando comandos em linguagem natural."
+    },
+    {
+      "title": "Jensen Huang explica o crescimento da Nvidia",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
       "category": "Negocios/Investimento",
       "relevance": 4,
-      "summary_pt": "A OpenAI publicou uma analise sobre como ferramentas de inteligencia artificial mais capazes e economicas estao ampliando a produtividade de pessoas e empresas. O material discute caminhos para tornar o crescimento economico impulsionado por tecnologia mais acessivel globalmente."
+      "summary_pt": "O CEO da Nvidia, Jensen Huang, detalhou as expectativas de crescimento impressionante da empresa para o próximo ano. Ele defendeu a solidez dos negócios da companhia, afirmando que as parcerias e acordos comerciais não são artificiais ou circulares."
+    },
+    {
+      "title": "Anthropic detalha campanhas de destilação de concorrentes",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "category": "Pesquisa",
+      "relevance": 4,
+      "summary_pt": "Um relatório recente divulgado pela Anthropic aponta ataques persistentes de destilação de modelos por empresas de inteligência artificial baseadas na China, como Alibaba, Moonshot AI e DeepSeek. Essas práticas se intensificaram nos últimos meses devido à acirrada concorrência no setor."
+    },
+    {
+      "title": "Slack ganha criação de gráficos interativos com IA",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "category": "Produto/Ferramenta",
+      "relevance": 4,
+      "summary_pt": "O Slack está lançando uma nova ferramenta que permite aos usuários criar relatórios interativos, painéis e apresentações diretamente dentro dos chats. Com o recurso Slackforce Surfaces, basta descrever o que você precisa para que a IA processe dados de conversas e aplicativos conectados."
+    },
+    {
+      "title": "Universal Music e ElevenLabs lançam plataforma de IA",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+      "category": "Negocios/Investimento",
+      "relevance": 4,
+      "summary_pt": "O Universal Music Group firmou uma parceria plurianual com a ElevenLabs para lançar uma plataforma musical baseada em inteligência artificial. A ferramenta permitirá que usuários criem remixes e novas versões de faixas utilizando o catálogo licenciado da gravadora."
+    },
+    {
+      "title": "Assistente Muse da Meta em testes",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "category": "Produto/Ferramenta",
+      "relevance": 4,
+      "summary_pt": "A Meta lançou o assistente Muse para automatizar tarefas cotidianas como compras online, e-mails e planejamento de viagens. A ferramenta marca a entrada oficial da empresa no mercado de ferramentas de produtividade impulsionadas por IA."
+    },
+    {
+      "title": "Workstation Linux Thelio Mira AI com 192 GB de memória GPU",
+      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
+      "link": "https://system76.com/workstations/thelio-mira-ai",
+      "category": "Produto/Ferramenta",
+      "relevance": 4,
+      "summary_pt": "A System76 anunciou a workstation Thelio Mira AI voltada para desenvolvedores e pesquisadores de aprendizado de máquina. O equipamento se destaca por oferecer 192 GB de memória de GPU em ambiente Linux."
+    },
+    {
+      "title": "Relatório de inteligência de ameaças da Anthropic: setembro de 2026",
+      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
+      "link": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "category": "Politica/Regulacao",
+      "relevance": 4,
+      "summary_pt": "A Anthropic publicou seu relatório mensal detalhando a detecção e o combate ao uso malicioso de seus modelos de IA. O documento aborda táticas de segurança cibernética e mitigação de riscos associados a LLMs."
     }
   ]
 }
