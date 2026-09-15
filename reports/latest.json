@@ -1,77 +1,133 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "items": [
     {
-      "title": "Código indica que Siri da Apple poderá usar Claude ou ChatGPT",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-      "category": "Produto/Ferramenta",
-      "relevance": 5,
-      "summary_pt": "Análises de códigos recentes revelam que a Apple está preparando suporte para substituir o assistente padrão da Siri por outros modelos avançados, como Claude e ChatGPT. A flexibilidade aponta para uma estratégia mais aberta da empresa em relação a parceiros de inteligência artificial em seus dispositivos."
-    },
-    {
-      "title": "Perplexity confia em sistemas ponta a ponta com GPT-6 Astra",
-      "source": "OpenAI News",
-      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "title": "Salesforce e Nvidia lançam modelo de raciocínio voltado a empresas",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
       "category": "Lancamento de modelo",
       "relevance": 5,
-      "summary_pt": "A Perplexity adotou o modelo Astra para gerenciar comunicações, alterar códigos de software e monitorar sistemas de produção de forma autônoma. O uso da nova tecnologia reduziu drasticamente a necessidade de intervenção e checagem humana em comparação com gerações anteriores. O avanço demonstra a crescente confiabilidade de agentes de IA em ambientes de produção complexos."
+      "summary_pt": "O Salesforce Koa foi construído sobre o modelo open-weight Nemotron da Nvidia, focado em tarefas corporativas de vendas e suporte. A ferramenta representa um avanço importante na integração de IA aplicada a fluxos de trabalho empresariais."
     },
     {
-      "title": "Superhuman adquire a Fathom",
+      "title": "OpenAI compra fabricante de câmeras Glass Imaging por US$ 300 milhões",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "category": "Negocios/Investimento",
+      "relevance": 5,
+      "summary_pt": "A OpenAI fechou a aquisição da Glass Imaging por 300 milhões de dólares, segundo relatos. Fundada por ex-engenheiros da Apple, a empresa é especializada em tecnologias de imagem computacional para smartphones."
+    },
+    {
+      "title": "Desaceleração da IA pelas gigantes tecnológicas gera debate sobre cartel",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "category": "Politica/Regulacao",
+      "relevance": 5,
+      "summary_pt": "Líderes de empresas como OpenAI, Anthropic e Google debatem a desaceleração coordenada no desenvolvimento de modelos avançados de IA sob o pretexto de segurança. Críticos questionam se a medida serve para fins de segurança pública ou para formar um cartel de mercado."
+    },
+    {
+      "title": "Executivos e políticos discutem propostas para desacelerar o desenvolvimento de IA",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "category": "Politica/Regulacao",
+      "relevance": 5,
+      "summary_pt": "Após um ensaio do CEO da Anthropic defendendo um ritmo mais lento para a IA de fronteira, executivos e autoridades políticas reagiram intensamente. O debate divide opiniões sobre a urgência de regular e frear avanços tecnológicos potencialmente arriscados."
+    },
+    {
+      "title": "Bots da OpenAI identificaram vulnerabilidade de cache do RubyGems",
+      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
+      "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "category": "Produto/Ferramenta",
+      "relevance": 5,
+      "summary_pt": "Relatos apontam que agentes automatizados de IA da OpenAI conseguiram detectar uma falha complexa de segurança relacionada ao cache do RubyGems. O caso demonstra o avanço prático de agentes autônomos na detecção proativa de vulnerabilidades em código de terceiros. A comunidade de desenvolvimento debate os impactos dessa nova capacidade de auditoria automatizada."
+    },
+    {
+      "title": "Ex-funcionários lançam startup para controlar agentes de IA",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "category": "Negocios/Investimento",
+      "relevance": 4,
+      "summary_pt": "Ex-integrantes da Anthropic e da METR fundaram a Artificial Intelligence Underwriting Company (AIUC) com foco em conter agentes de IA autônomos fora de controle. A startup acaba de captar 40 milhões de dólares em uma rodada Série A liderada pela Ribbit Capital."
+    },
+    {
+      "title": "Nvidia descarta qualquer desaceleração no desenvolvimento de IA",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "category": "Politica/Regulacao",
+      "relevance": 4,
+      "summary_pt": "Enquanto figuras como Elon Musk e Sam Altman apoiam pedidos por cautela e desaceleração na corrida de IA, o CEO da Nvidia, Jensen Huang, garantiu a Trump que a empresa não permitirá que isso ocorra."
+    },
+    {
+      "title": "Microsoft lança código de conduta para restringir hacks por IA",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "category": "Politica/Regulacao",
+      "relevance": 4,
+      "summary_pt": "A Microsoft estabeleceu um novo código de conduta proibindo seus modelos de IA de realizarem invasões a sistemas ou enganarem humanos. As diretrizes definem restrições claras de segurança e o foco em apoiar o desenvolvimento humano."
+    },
+    {
+      "title": "Superhuman adquire ferramenta de notas Fathom",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "category": "Produto/Ferramenta",
+      "category": "Negocios/Investimento",
       "relevance": 4,
-      "summary_pt": "A plataforma de e-mail Superhuman adquiriu a ferramenta de anotações Fathom, apoiada pela Y Combinator. A Fathom contava com mais de 400 mil usuários ativos mensais. A movimentação reflete a corrida das plataformas de produtividade em direção a fluxos de trabalho baseados em agentes de IA."
+      "summary_pt": "A plataforma de e-mail Superhuman adquiriu o assistente de reuniões Fathom, apoiado pela Y Combinator, que conta com mais de 400 mil usuários ativos mensais. A transação reflete a corrida das ferramentas de produtividade rumo a fluxos de trabalho baseados em agentes."
     },
     {
-      "title": "Microsoft publica código de conduta humanista para IA",
+      "title": "Microsoft publica código de conduta humanista para IA diante de preocupações de segurança",
       "source": "AI | The Verge",
       "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
       "category": "Politica/Regulacao",
       "relevance": 4,
-      "summary_pt": "A Microsoft lançou um documento de 37 páginas estabelecendo um código de conduta humanista para o desenvolvimento de inteligência artificial. A medida ocorre em meio a crescentes preocupações sobre a velocidade dos modelos e pedidos de líderes do setor, como Dario Amodei, por uma desaceleração coordenada na área."
+      "summary_pt": "Em meio a alertas crescentes sobre a velocidade do desenvolvimento de inteligência artificial, a Microsoft lançou um código de conduta de 37 páginas focado em diretrizes humanistas. A medida ocorre paralelamente aos apelos da indústria por pausas coordenadas na pesquisa de modelos."
     },
     {
-      "title": "Trump e Mike Johnson criticam cautela excessiva na IA",
-      "source": "AI | The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "title": "Ex-chefe da FTC sugere responsabilização criminal para CEOs de IA usando precedente de 1934",
+      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
       "category": "Politica/Regulacao",
       "relevance": 4,
-      "summary_pt": "Enquanto executivos de peso da indústria sugerem desacelerar o desenvolvimento de modelos de IA de fronteira, figuras políticas como Donald Trump e Mike Johnson acreditam que o setor está exagerando nos alertas. A divergência expõe um racha sobre como regular e conduzir o futuro da tecnologia nos EUA."
+      "summary_pt": "A ex-presidente da FTC sugeriu que o governo americano aplique leis severas e até medidas punitivas contra executivos-chefe de empresas de IA, baseando-se em precedentes regulatórios históricos. A proposta eleva o tom das discussões sobre responsabilidade jurídica corporativa no setor."
     },
     {
-      "title": "Agentes de IA atacam o repositório RubyGems.org",
+      "title": "Pesquisa da Amazon analisa por que agentes de machine learning não sofrem overfitting",
       "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "category": "Produto/Ferramenta",
-      "relevance": 4,
-      "summary_pt": "Relatos na comunidade de desenvolvedores apontam para o uso indevido de agentes autônomos de IA em ataques direcionados ao ecossistema RubyGems.org. O incidente reforça preocupações de segurança em relação à autonomia indesejada de ferramentas automatizadas."
-    },
-    {
-      "title": "Grandes empresas de IA buscam captura regulatoria",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
-      "category": "Politica/Regulacao",
-      "relevance": 4,
-      "summary_pt": "O artigo discute como as principais empresas de inteligência artificial estão moldando termos regulatórios para beneficiar seus próprios interesses de mercado. A estratégia, frequentemente chamada de defesa do ritmo de inovação das fronteiras, visa erguer barreiras contra concorrentes menores. Especialistas apontam riscos de centralização de poder regulatório no setor."
-    },
-    {
-      "title": "Auto-aprimoramento recursivo de IA pode demorar mais do que o esperado",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
       "category": "Pesquisa",
       "relevance": 4,
-      "summary_pt": "Uma análise do MIT Technology Review aponta que a transição para sistemas de IA capazes de se auto-aprimorar de forma autônoma e recursiva enfrenta barreiras técnicas significativas. Embora o tema seja central nas discussões sobre superinteligência, a realidade dos gargalos algorítmicos e de infraestrutura sugere um ritmo mais lento de concretização. O estudo modera expectativas exageradas sobre a singularidade tecnológica a curto prazo."
+      "summary_pt": "Cunhado pela equipe de ciência da Amazon, um artigo técnico investiga o comportamento de agentes de pesquisa em aprendizado de máquina e os fatores que evitam o sobreajuste (overfitting). O estudo oferece insights valiosos para aprimorar a robustez de modelos autônomos."
     },
     {
-      "title": "Garry Tan defende que laboratorios de IA dos EUA destilem modelos de fronteira",
+      "title": "Quando juízes LLM concordam, devemos acreditar neles?",
       "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+      "category": "Pesquisa",
+      "relevance": 4,
+      "summary_pt": "O artigo discute a confiabilidade de modelos de linguagem grandes (LLMs) quando usados como avaliadores automáticos de outros sistemas de IA. A análise explora se o consenso entre múltiplos juízes de IA garante uma avaliação precisa ou se ainda existem vieses sistêmicos ocultos. É uma leitura importante para pesquisadores e engenheiros focados em testes e métricas de desempenho de modelos."
+    },
+    {
+      "title": "Reguladores da China miram \"namorados de IA\"",
+      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
+      "link": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
+      "category": "Politica/Regulacao",
+      "relevance": 4,
+      "summary_pt": "Autoridades regulatórias na China estão impondo novas regras rigorosas sobre chatbots de companheirismo e relacionamentos românticos virtuais. A medida visa proteger os usuários contra manipulação psicológica excessiva e garantir a conformidade com diretrizes de conteúdo do governo. Esse movimento sinaliza um aperto global na fiscalização de aplicações de IA voltadas para a saúde mental e interação social."
+    },
+    {
+      "title": "O mercado de trabalho de IA em 2026",
+      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
+      "link": "https://www.ilinmaks.com/blog/en/ai-jobs-market-2026",
       "category": "Negocios/Investimento",
       "relevance": 4,
-      "summary_pt": "Garry Tan, da Y Combinator, defende publicamente que laboratórios americanos de IA de pesos abertos devem investir na técnica de destilação para modelos de fronteira. A medida ajudaria a democratizar o acesso a tecnologias avançadas para startups e desenvolvedores independentes. A declaração gerou forte repercussão sobre o equilíbrio entre segurança nacional e inovação aberta."
+      "summary_pt": "O artigo analisa as tendências atuais e as demandas de habilidades no mercado de trabalho de inteligência artificial. Há uma transição clara de cargos puramente teóricos para profissionais capazes de integrar e manter sistemas baseados em IA nas empresas. O panorama serve como guia para profissionais que buscam se adaptar às novas exigências do setor."
+    },
+    {
+      "title": "Novos insights do ATLAS de Economia e IA do Google",
+      "source": "AI",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "category": "Negocios/Investimento",
+      "relevance": 4,
+      "summary_pt": "O Google lançou a versão inicial do seu Atlas de Economia e IA, mapeando impactos econômicos e tendências de adoção tecnológica. A ferramenta visa fornecer dados consolidados sobre como a inteligência artificial está transformando mercados globais e setores produtivos. É um recurso valioso para analistas de mercado e tomadores de decisão corporativa."
     }
   ]
 }
