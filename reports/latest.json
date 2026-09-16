@@ -1,133 +1,77 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "items": [
     {
-      "title": "Salesforce e Nvidia lançam modelo de raciocínio voltado a empresas",
+      "title": "OpenAI, Anthropic e Google discutem segurança em IA",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-      "category": "Lancamento de modelo",
+      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "category": "Politica/Regulacao",
       "relevance": 5,
-      "summary_pt": "O Salesforce Koa foi construído sobre o modelo open-weight Nemotron da Nvidia, focado em tarefas corporativas de vendas e suporte. A ferramenta representa um avanço importante na integração de IA aplicada a fluxos de trabalho empresariais."
+      "summary_pt": "Executivos e pesquisadores de OpenAI, Anthropic e Google DeepMind mantêm conversas há semanas sobre diretrizes de segurança em IA. As discussões ocorrem em meio a pressões políticas para manter a competitividade frente à China e ceticismo governamental quanto a regulações restritivas."
     },
     {
-      "title": "OpenAI compra fabricante de câmeras Glass Imaging por US$ 300 milhões",
+      "title": "SK Hynix negocia fabricação de chips de memória nos EUA com a Intel",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "link": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
       "category": "Negocios/Investimento",
-      "relevance": 5,
-      "summary_pt": "A OpenAI fechou a aquisição da Glass Imaging por 300 milhões de dólares, segundo relatos. Fundada por ex-engenheiros da Apple, a empresa é especializada em tecnologias de imagem computacional para smartphones."
+      "relevance": 4,
+      "summary_pt": "A SK Hynix estaria em conversas com a Intel para produzir chips de memória em território americano. A medida faz parte dos esforços da cadeia de suprimentos para atender à crescente demanda de hardware de IA."
     },
     {
-      "title": "Desaceleração da IA pelas gigantes tecnológicas gera debate sobre cartel",
-      "source": "AI | The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "title": "Jensen Huang defende que regulamentação de IA é desnecessária",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
       "category": "Politica/Regulacao",
-      "relevance": 5,
-      "summary_pt": "Líderes de empresas como OpenAI, Anthropic e Google debatem a desaceleração coordenada no desenvolvimento de modelos avançados de IA sob o pretexto de segurança. Críticos questionam se a medida serve para fins de segurança pública ou para formar um cartel de mercado."
+      "relevance": 4,
+      "summary_pt": "O CEO da Nvidia, Jensen Huang, argumentou que a inteligência artificial não deve ser tratada como uma tecnologia misteriosa e que a segurança pode ser projetada por cada fabricante. Para ele, a regulação governamental externa é dispensável."
     },
     {
-      "title": "Executivos e políticos discutem propostas para desacelerar o desenvolvimento de IA",
-      "source": "AI | The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-      "category": "Politica/Regulacao",
-      "relevance": 5,
-      "summary_pt": "Após um ensaio do CEO da Anthropic defendendo um ritmo mais lento para a IA de fronteira, executivos e autoridades políticas reagiram intensamente. O debate divide opiniões sobre a urgência de regular e frear avanços tecnológicos potencialmente arriscados."
-    },
-    {
-      "title": "Bots da OpenAI identificaram vulnerabilidade de cache do RubyGems",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "title": "Meta integra agentes de IA ao WhatsApp Business",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
       "category": "Produto/Ferramenta",
-      "relevance": 5,
-      "summary_pt": "Relatos apontam que agentes automatizados de IA da OpenAI conseguiram detectar uma falha complexa de segurança relacionada ao cache do RubyGems. O caso demonstra o avanço prático de agentes autônomos na detecção proativa de vulnerabilidades em código de terceiros. A comunidade de desenvolvimento debate os impactos dessa nova capacidade de auditoria automatizada."
-    },
-    {
-      "title": "Ex-funcionários lançam startup para controlar agentes de IA",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "category": "Negocios/Investimento",
       "relevance": 4,
-      "summary_pt": "Ex-integrantes da Anthropic e da METR fundaram a Artificial Intelligence Underwriting Company (AIUC) com foco em conter agentes de IA autônomos fora de controle. A startup acaba de captar 40 milhões de dólares em uma rodada Série A liderada pela Ribbit Capital."
+      "summary_pt": "A Meta lançou um servidor MCP do WhatsApp Business que permite a desenvolvedores usar agentes de codificação como Claude e ChatGPT. A ferramenta automatiza etapas burocráticas como configuração inicial, modelos de mensagens e testes."
     },
     {
-      "title": "Nvidia descarta qualquer desaceleração no desenvolvimento de IA",
+      "title": "Consumo de gás natural por data centers nos EUA pode disparar até 2035",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
       "category": "Politica/Regulacao",
       "relevance": 4,
-      "summary_pt": "Enquanto figuras como Elon Musk e Sam Altman apoiam pedidos por cautela e desaceleração na corrida de IA, o CEO da Nvidia, Jensen Huang, garantiu a Trump que a empresa não permitirá que isso ocorra."
+      "summary_pt": "O crescimento acelerado da infraestrutura de IA pode fazer com que os data centers americanos consumam mais gás natural do que a Alemanha e o Japão juntos até 2035. O dado escancara a crise energética iminente provocada pelo setor."
     },
     {
-      "title": "Microsoft lança código de conduta para restringir hacks por IA",
+      "title": "Meta expande planos de assinatura com foco em IA",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "category": "Politica/Regulacao",
-      "relevance": 4,
-      "summary_pt": "A Microsoft estabeleceu um novo código de conduta proibindo seus modelos de IA de realizarem invasões a sistemas ou enganarem humanos. As diretrizes definem restrições claras de segurança e o foco em apoiar o desenvolvimento humano."
-    },
-    {
-      "title": "Superhuman adquire ferramenta de notas Fathom",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
       "category": "Negocios/Investimento",
       "relevance": 4,
-      "summary_pt": "A plataforma de e-mail Superhuman adquiriu o assistente de reuniões Fathom, apoiado pela Y Combinator, que conta com mais de 400 mil usuários ativos mensais. A transação reflete a corrida das ferramentas de produtividade rumo a fluxos de trabalho baseados em agentes."
+      "summary_pt": "A Meta lançou pacotes de assinatura chamados Meta One que combinam acesso ampliado a ferramentas de inteligência artificial com recursos premium. As ofertas cobrem plataformas como Facebook, Instagram e WhatsApp para usuários comuns, criadores e empresas."
     },
     {
-      "title": "Microsoft publica código de conduta humanista para IA diante de preocupações de segurança",
+      "title": "Executivos de IA defendem regulação do setor",
       "source": "AI | The Verge",
-      "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
       "category": "Politica/Regulacao",
       "relevance": 4,
-      "summary_pt": "Em meio a alertas crescentes sobre a velocidade do desenvolvimento de inteligência artificial, a Microsoft lançou um código de conduta de 37 páginas focado em diretrizes humanistas. A medida ocorre paralelamente aos apelos da indústria por pausas coordenadas na pesquisa de modelos."
+      "summary_pt": "Principais líderes da indústria de IA, incluindo Sam Altman, Dario Amodei e Satya Nadella, têm defendido publicamente a implementação de marcos regulatórios. O movimento levanta debates sobre as reais motivações corporativas por trás do controle de ritmo tecnológico."
     },
     {
-      "title": "Ex-chefe da FTC sugere responsabilização criminal para CEOs de IA usando precedente de 1934",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-      "category": "Politica/Regulacao",
+      "title": "Novas assinaturas da Meta cobram por recursos sociais e IA",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "category": "Produto/Ferramenta",
       "relevance": 4,
-      "summary_pt": "A ex-presidente da FTC sugeriu que o governo americano aplique leis severas e até medidas punitivas contra executivos-chefe de empresas de IA, baseando-se em precedentes regulatórios históricos. A proposta eleva o tom das discussões sobre responsabilidade jurídica corporativa no setor."
+      "summary_pt": "A Meta disponibilizou globalmente os pacotes de assinatura Meta One, integrando o assistente de IA Muse a recursos avançados em aplicativos da empresa. A iniciativa marca uma nova fase de monetização direta para serviços de inteligência artificial voltados ao consumidor final."
     },
     {
-      "title": "Pesquisa da Amazon analisa por que agentes de machine learning não sofrem overfitting",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "category": "Pesquisa",
+      "title": "OpenAI explora novas experiências de publicidade com IA",
+      "source": "OpenAI News",
+      "link": "https://openai.com/index/reimagining-advertising-with-ai",
+      "category": "Produto/Ferramenta",
       "relevance": 4,
-      "summary_pt": "Cunhado pela equipe de ciência da Amazon, um artigo técnico investiga o comportamento de agentes de pesquisa em aprendizado de máquina e os fatores que evitam o sobreajuste (overfitting). O estudo oferece insights valiosos para aprimorar a robustez de modelos autônomos."
-    },
-    {
-      "title": "Quando juízes LLM concordam, devemos acreditar neles?",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-      "category": "Pesquisa",
-      "relevance": 4,
-      "summary_pt": "O artigo discute a confiabilidade de modelos de linguagem grandes (LLMs) quando usados como avaliadores automáticos de outros sistemas de IA. A análise explora se o consenso entre múltiplos juízes de IA garante uma avaliação precisa ou se ainda existem vieses sistêmicos ocultos. É uma leitura importante para pesquisadores e engenheiros focados em testes e métricas de desempenho de modelos."
-    },
-    {
-      "title": "Reguladores da China miram \"namorados de IA\"",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
-      "category": "Politica/Regulacao",
-      "relevance": 4,
-      "summary_pt": "Autoridades regulatórias na China estão impondo novas regras rigorosas sobre chatbots de companheirismo e relacionamentos românticos virtuais. A medida visa proteger os usuários contra manipulação psicológica excessiva e garantir a conformidade com diretrizes de conteúdo do governo. Esse movimento sinaliza um aperto global na fiscalização de aplicações de IA voltadas para a saúde mental e interação social."
-    },
-    {
-      "title": "O mercado de trabalho de IA em 2026",
-      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
-      "link": "https://www.ilinmaks.com/blog/en/ai-jobs-market-2026",
-      "category": "Negocios/Investimento",
-      "relevance": 4,
-      "summary_pt": "O artigo analisa as tendências atuais e as demandas de habilidades no mercado de trabalho de inteligência artificial. Há uma transição clara de cargos puramente teóricos para profissionais capazes de integrar e manter sistemas baseados em IA nas empresas. O panorama serve como guia para profissionais que buscam se adaptar às novas exigências do setor."
-    },
-    {
-      "title": "Novos insights do ATLAS de Economia e IA do Google",
-      "source": "AI",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-      "category": "Negocios/Investimento",
-      "relevance": 4,
-      "summary_pt": "O Google lançou a versão inicial do seu Atlas de Economia e IA, mapeando impactos econômicos e tendências de adoção tecnológica. A ferramenta visa fornecer dados consolidados sobre como a inteligência artificial está transformando mercados globais e setores produtivos. É um recurso valioso para analistas de mercado e tomadores de decisão corporativa."
+      "summary_pt": "A OpenAI anunciou iniciativas voltadas ao mercado publicitário impulsionadas por inteligência artificial, incluindo agentes patrocinados e novas ferramentas para profissionais de marketing. A estratégia também envolve integrações comerciais com plataformas como HubSpot e Shopify."
     }
   ]
 }
