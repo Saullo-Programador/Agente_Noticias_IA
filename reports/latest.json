@@ -1,77 +1,125 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "items": [
     {
-      "title": "OpenAI, Anthropic e Google discutem segurança em IA",
+      "title": "Google, Nvidia e Anthropic criam coalizão para energia de data centers",
       "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-      "category": "Politica/Regulacao",
+      "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "category": "Negocios/Investimento",
       "relevance": 5,
-      "summary_pt": "Executivos e pesquisadores de OpenAI, Anthropic e Google DeepMind mantêm conversas há semanas sobre diretrizes de segurança em IA. As discussões ocorrem em meio a pressões políticas para manter a competitividade frente à China e ceticismo governamental quanto a regulações restritivas."
+      "summary_pt": "Gigantes da tecnologia uniram-se à Emerald AI para encontrar 100 GW de capacidade na rede elétrica. O projeto visa viabilizar a expansão de novos data centers necessários para o treinamento de modelos avançados de inteligência artificial."
     },
     {
-      "title": "SK Hynix negocia fabricação de chips de memória nos EUA com a Intel",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
-      "category": "Negocios/Investimento",
-      "relevance": 4,
-      "summary_pt": "A SK Hynix estaria em conversas com a Intel para produzir chips de memória em território americano. A medida faz parte dos esforços da cadeia de suprimentos para atender à crescente demanda de hardware de IA."
-    },
-    {
-      "title": "Jensen Huang defende que regulamentação de IA é desnecessária",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "category": "Politica/Regulacao",
-      "relevance": 4,
-      "summary_pt": "O CEO da Nvidia, Jensen Huang, argumentou que a inteligência artificial não deve ser tratada como uma tecnologia misteriosa e que a segurança pode ser projetada por cada fabricante. Para ele, a regulação governamental externa é dispensável."
-    },
-    {
-      "title": "Meta integra agentes de IA ao WhatsApp Business",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "category": "Produto/Ferramenta",
-      "relevance": 4,
-      "summary_pt": "A Meta lançou um servidor MCP do WhatsApp Business que permite a desenvolvedores usar agentes de codificação como Claude e ChatGPT. A ferramenta automatiza etapas burocráticas como configuração inicial, modelos de mensagens e testes."
-    },
-    {
-      "title": "Consumo de gás natural por data centers nos EUA pode disparar até 2035",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-      "category": "Politica/Regulacao",
-      "relevance": 4,
-      "summary_pt": "O crescimento acelerado da infraestrutura de IA pode fazer com que os data centers americanos consumam mais gás natural do que a Alemanha e o Japão juntos até 2035. O dado escancara a crise energética iminente provocada pelo setor."
-    },
-    {
-      "title": "Meta expande planos de assinatura com foco em IA",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-      "category": "Negocios/Investimento",
-      "relevance": 4,
-      "summary_pt": "A Meta lançou pacotes de assinatura chamados Meta One que combinam acesso ampliado a ferramentas de inteligência artificial com recursos premium. As ofertas cobrem plataformas como Facebook, Instagram e WhatsApp para usuários comuns, criadores e empresas."
-    },
-    {
-      "title": "Executivos de IA defendem regulação do setor",
-      "source": "AI | The Verge",
-      "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-      "category": "Politica/Regulacao",
-      "relevance": 4,
-      "summary_pt": "Principais líderes da indústria de IA, incluindo Sam Altman, Dario Amodei e Satya Nadella, têm defendido publicamente a implementação de marcos regulatórios. O movimento levanta debates sobre as reais motivações corporativas por trás do controle de ritmo tecnológico."
-    },
-    {
-      "title": "Novas assinaturas da Meta cobram por recursos sociais e IA",
-      "source": "AI | The Verge",
-      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-      "category": "Produto/Ferramenta",
-      "relevance": 4,
-      "summary_pt": "A Meta disponibilizou globalmente os pacotes de assinatura Meta One, integrando o assistente de IA Muse a recursos avançados em aplicativos da empresa. A iniciativa marca uma nova fase de monetização direta para serviços de inteligência artificial voltados ao consumidor final."
-    },
-    {
-      "title": "OpenAI explora novas experiências de publicidade com IA",
+      "title": "OpenAI introduz recursos de publicidade e agentes patrocinados",
       "source": "OpenAI News",
       "link": "https://openai.com/index/reimagining-advertising-with-ai",
+      "category": "Negocios/Investimento",
+      "relevance": 5,
+      "summary_pt": "A OpenAI anunciou novas experiências publicitárias baseadas em inteligência artificial, incluindo agentes patrocinados e ferramentas voltadas para profissionais de marketing. A estratégia conta com integrações nativas de plataformas como HubSpot e Shopify. O movimento marca uma expansão significativa da empresa em direção a modelos de monetização comercial."
+    },
+    {
+      "title": "OpenAI compartilha framework para relatar desalinhamento de modelos",
+      "source": "OpenAI News",
+      "link": "https://openai.com/index/model-misalignment-reporting-framework",
+      "category": "Pesquisa",
+      "relevance": 5,
+      "summary_pt": "A OpenAI divulgou uma estrutura oficial para rastrear, investigar e divulgar casos de desalinhamento em modelos de IA. Junto com a diretriz, a empresa publicou seis relatórios detalhando comportamentos inesperados ou preocupantes observados em testes. A iniciativa visa aumentar a transparência e a segurança no desenvolvimento de sistemas avançados."
+    },
+    {
+      "title": "Huawei planeja chip de IA para o início de 2027",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "category": "Negocios/Investimento",
+      "relevance": 4,
+      "summary_pt": "A Huawei está acelerando o desenvolvimento do seu chip Ascend 960DT para concorrer diretamente com a Nvidia. A iniciativa busca reduzir a desvantagem tecnológica da China frente aos Estados Unidos em infraestrutura de IA."
+    },
+    {
+      "title": "Agentes de IA Instinct e Muse ganham função de chamadas",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
       "category": "Produto/Ferramenta",
       "relevance": 4,
-      "summary_pt": "A OpenAI anunciou iniciativas voltadas ao mercado publicitário impulsionadas por inteligência artificial, incluindo agentes patrocinados e novas ferramentas para profissionais de marketing. A estratégia também envolve integrações comerciais com plataformas como HubSpot e Shopify."
+      "summary_pt": "Os assistentes virtuais Instinct e Muse, da Meta, agora possuem a capacidade de realizar chamadas telefônicas reais. Essa nova função permite que os usuários automatizem tarefas cotidianas, como reservas em restaurantes e cancelamento de assinaturas."
+    },
+    {
+      "title": "OpenAI e Anthropic planejam avaliadores de segurança internos",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "category": "Politica/Regulacao",
+      "relevance": 4,
+      "summary_pt": "As principais empresas de IA pretendem integrar avaliadores de segurança independentes dentro de seus próprios laboratórios. Embora pesquisadores vejam o acesso com bons olhos, especialistas alertam que a verdadeira supervisão exigirá transparência e regulamentação externa."
+    },
+    {
+      "title": "Agentes de IA ganham controle sobre dispositivos Google Home",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "category": "Produto/Ferramenta",
+      "relevance": 4,
+      "summary_pt": "O Google liberou acesso antecipado a um novo servidor MCP para o ecossistema Google Home. Com isso, assistentes como ChatGPT e Claude passam a controlar dispositivos conectados e câmeras inteligentes utilizando comandos em linguagem natural."
+    },
+    {
+      "title": "Anthropic une chat e Cowork",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "category": "Produto/Ferramenta",
+      "relevance": 4,
+      "summary_pt": "A Anthropic está atualizando sua interface para unificar as conversas do Claude e a ferramenta Cowork em um único ambiente. Inicialmente, o recurso será liberado para assinantes dos planos Pro e Max."
+    },
+    {
+      "title": "Críticas à segurança da Anthropic",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+      "category": "Politica/Regulacao",
+      "relevance": 4,
+      "summary_pt": "O CEO de IA da Microsoft, Mustafa Suleyman, afirmou que as ameaças da inteligência artificial são reais e criticou a postura da Anthropic em relação à regulação. A discussão reflete os debates internos da indústria sobre segurança e conformidade."
+    },
+    {
+      "title": "O aquecimento do mercado de segurança em IA",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+      "category": "Pesquisa",
+      "relevance": 4,
+      "summary_pt": "Pesquisadores de segurança de IA se reuniram recentemente na Califórnia para debater incidentes críticos envolvendo modelos avançados. O episódio destaca a crescente urgência em auditar comportamentos autônomos inesperados."
+    },
+    {
+      "title": "Alerta sobre lixo eletrônico de data centers",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+      "category": "Politica/Regulacao",
+      "relevance": 4,
+      "summary_pt": "Um novo relatório alerta que o boom da IA gerará uma quantidade massiva de lixo eletrônico até 2050, capaz de lotar milhões de contêineres. O impacto ambiental dos data centers passa a ser uma preocupação central para o setor."
+    },
+    {
+      "title": "Apple pode voltar a fabricar servidores",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+      "category": "Negocios/Investimento",
+      "relevance": 4,
+      "summary_pt": "Relatórios indicam que a Apple planeja retornar ao mercado de servidores corporativos em parceria potencial com a Nvidia. O movimento seria uma resposta direta à escassez de poder computacional impulsionada pela demanda de IA."
+    },
+    {
+      "title": "Google Home abre espaço para agentes de IA",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "category": "Produto/Ferramenta",
+      "relevance": 4,
+      "summary_pt": "O Google integrou o Model Context Protocol para permitir que agentes de terceiros, como o Claude, controlem dispositivos de casa inteligente. A novidade expande a interoperabilidade e o controle autônomo de ambientes residenciais."
+    },
+    {
+      "title": "Claude ganha recursos concorrentes ao Gemini Docs",
+      "source": "AI | The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "category": "Produto/Ferramenta",
+      "relevance": 4,
+      "summary_pt": "A Anthropic lançou ferramentas de documentos e apresentações (Docs e Slides) diretamente integradas ao chat do Claude. Com isso, a empresa unifica sua plataforma e concorre de perto com as soluções de produtividade do Google."
+    },
+    {
+      "title": "Um alerta sobre o 'bem-estar dos modelos'",
+      "source": "Hacker News - Newest: \"\"AI\" \"LLM\" \"\"machine\" \"learning\"\"\"",
+      "link": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
+      "category": "Pesquisa",
+      "relevance": 4,
+      "summary_pt": "Mustafa Suleyman publicou reflexões importantes sobre os limites éticos e teóricos relacionados ao tratamento e ao comportamento de modelos avançados. O texto aborda discussões emergentes sobre a complexidade das interações com IAs e o alinhamento futuro. O tema gerou centenas de comentários e debate aprofundado na comunidade técnica."
     }
   ]
 }
